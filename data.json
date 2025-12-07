@@ -2,250 +2,250 @@
   "nfl": [
     {
       "id": "nfl1",
-      "home": "Philadelphia Eagles",
-      "away": "Cincinnati Bengals",
-      "time": "20:20",
-      "date": "2025-12-07",
-      "odds": {
-        "moneyline": {
-          "home": -136,
-          "away": 190
-        },
-        "spread": {
-          "home": -3.8,
-          "away": 3.8
-        },
-        "total": 48.5
-      },
-      "player_props": {
-        "quarterbacks": [
-          {
-            "name": "Patrick Mahomes",
-            "passing_yards": 302.4,
-            "passing_tds": 1.5
-          },
-          {
-            "name": "Josh Allen",
-            "passing_yards": 297.7,
-            "passing_tds": 2.3
-          }
-        ],
-        "receivers": [
-          {
-            "name": "Tyreek Hill",
-            "receiving_yards": 122.1,
-            "anytime_td": true
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 71,
-        "away_win_probability": 29,
-        "predicted_score": "34-29",
-        "confidence": 83,
-        "betting_recommendations": {
-          "moneyline": {
-            "pick": "Philadelphia Eagles ML",
-            "confidence": 76,
-            "value": 8.4
-          }
-        }
-      }
-    },
-    {
-      "id": "nfl2",
-      "home": "Baltimore Ravens",
-      "away": "Green Bay Packers",
-      "time": "13:00",
-      "date": "2025-12-09",
-      "odds": {
-        "moneyline": {
-          "home": -248,
-          "away": 281
-        },
-        "spread": {
-          "home": -2.2,
-          "away": 2.2
-        },
-        "total": 40.9
-      },
-      "player_props": {
-        "quarterbacks": [
-          {
-            "name": "Patrick Mahomes",
-            "passing_yards": 297.4,
-            "passing_tds": 2.5
-          },
-          {
-            "name": "Josh Allen",
-            "passing_yards": 245.4,
-            "passing_tds": 2.9
-          }
-        ],
-        "receivers": [
-          {
-            "name": "Tyreek Hill",
-            "receiving_yards": 111.0,
-            "anytime_td": true
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 67,
-        "away_win_probability": 33,
-        "predicted_score": "33-19",
-        "confidence": 76,
-        "betting_recommendations": {
-          "moneyline": {
-            "pick": "Baltimore Ravens ML",
-            "confidence": 72,
-            "value": 7.4
-          }
-        }
-      }
-    },
-    {
-      "id": "nfl3",
-      "home": "Baltimore Ravens",
-      "away": "Green Bay Packers",
-      "time": "20:20",
-      "date": "2025-12-08",
-      "odds": {
-        "moneyline": {
-          "home": -227,
-          "away": 385
-        },
-        "spread": {
-          "home": -3.5,
-          "away": 3.5
-        },
-        "total": 37.1
-      },
-      "player_props": {
-        "quarterbacks": [
-          {
-            "name": "Patrick Mahomes",
-            "passing_yards": 309.7,
-            "passing_tds": 1.9
-          },
-          {
-            "name": "Josh Allen",
-            "passing_yards": 278.7,
-            "passing_tds": 2.4
-          }
-        ],
-        "receivers": [
-          {
-            "name": "Tyreek Hill",
-            "receiving_yards": 106.1,
-            "anytime_td": true
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 48,
-        "away_win_probability": 52,
-        "predicted_score": "29-29",
-        "confidence": 75,
-        "betting_recommendations": {}
-      }
-    },
-    {
-      "id": "nfl4",
       "home": "Buffalo Bills",
-      "away": "Green Bay Packers",
-      "time": "16:25",
+      "away": "Tampa Bay Buccaneers",
+      "time": "17:00",
       "date": "2025-12-10",
       "odds": {
         "moneyline": {
-          "home": 345,
-          "away": -232
+          "home": 153,
+          "away": -180
         },
         "spread": {
-          "home": 1.2,
-          "away": -1.2
+          "home": 2.8,
+          "away": -2.8
         },
-        "total": 38.3
+        "total": 52.3
       },
       "player_props": {
         "quarterbacks": [
           {
             "name": "Patrick Mahomes",
-            "passing_yards": 269.3,
-            "passing_tds": 2.5
+            "passing_yards": 256.4,
+            "passing_tds": 2.0
           },
           {
             "name": "Josh Allen",
-            "passing_yards": 264.8,
-            "passing_tds": 1.8
+            "passing_yards": 288.9,
+            "passing_tds": 2.6
           }
         ],
         "receivers": [
           {
             "name": "Tyreek Hill",
-            "receiving_yards": 108.9,
+            "receiving_yards": 112.0,
             "anytime_td": true
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 74,
-        "away_win_probability": 26,
-        "predicted_score": "27-35",
-        "confidence": 91,
+        "home_win_probability": 77,
+        "away_win_probability": 23,
+        "predicted_score": "24-17",
+        "confidence": 88,
         "betting_recommendations": {
           "moneyline": {
             "pick": "Buffalo Bills ML",
-            "confidence": 79,
+            "confidence": 82,
             "value": 8.8
           }
         }
       }
     },
     {
-      "id": "nfl5",
+      "id": "nfl2",
       "home": "Kansas City Chiefs",
-      "away": "Miami Dolphins",
+      "away": "Green Bay Packers",
       "time": "13:00",
-      "date": "2025-12-07",
+      "date": "2025-12-08",
       "odds": {
         "moneyline": {
-          "home": -142,
-          "away": 305
+          "home": -154,
+          "away": 158
         },
         "spread": {
-          "home": -5.1,
-          "away": 5.1
+          "home": -8.3,
+          "away": 8.3
         },
-        "total": 52.7
+        "total": 35.1
       },
       "player_props": {
         "quarterbacks": [
           {
             "name": "Patrick Mahomes",
-            "passing_yards": 258.3,
-            "passing_tds": 2.9
+            "passing_yards": 319.1,
+            "passing_tds": 2.4
           },
           {
             "name": "Josh Allen",
-            "passing_yards": 284.4,
-            "passing_tds": 2.5
+            "passing_yards": 261.7,
+            "passing_tds": 1.9
           }
         ],
         "receivers": [
           {
             "name": "Tyreek Hill",
-            "receiving_yards": 117.2,
+            "receiving_yards": 102.2,
             "anytime_td": true
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 46,
-        "away_win_probability": 54,
-        "predicted_score": "34-24",
-        "confidence": 90,
+        "home_win_probability": 57,
+        "away_win_probability": 43,
+        "predicted_score": "34-23",
+        "confidence": 92,
         "betting_recommendations": {}
+      }
+    },
+    {
+      "id": "nfl3",
+      "home": "Kansas City Chiefs",
+      "away": "Detroit Lions",
+      "time": "16:25",
+      "date": "2025-12-07",
+      "odds": {
+        "moneyline": {
+          "home": -136,
+          "away": 184
+        },
+        "spread": {
+          "home": -3.4,
+          "away": 3.4
+        },
+        "total": 44.5
+      },
+      "player_props": {
+        "quarterbacks": [
+          {
+            "name": "Patrick Mahomes",
+            "passing_yards": 271.6,
+            "passing_tds": 2.2
+          },
+          {
+            "name": "Josh Allen",
+            "passing_yards": 257.8,
+            "passing_tds": 2.1
+          }
+        ],
+        "receivers": [
+          {
+            "name": "Tyreek Hill",
+            "receiving_yards": 120.1,
+            "anytime_td": true
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 45,
+        "away_win_probability": 55,
+        "predicted_score": "22-25",
+        "confidence": 76,
+        "betting_recommendations": {}
+      }
+    },
+    {
+      "id": "nfl4",
+      "home": "Dallas Cowboys",
+      "away": "Cincinnati Bengals",
+      "time": "17:00",
+      "date": "2025-12-07",
+      "odds": {
+        "moneyline": {
+          "home": -150,
+          "away": 174
+        },
+        "spread": {
+          "home": -3.6,
+          "away": 3.6
+        },
+        "total": 36.9
+      },
+      "player_props": {
+        "quarterbacks": [
+          {
+            "name": "Patrick Mahomes",
+            "passing_yards": 252.3,
+            "passing_tds": 1.6
+          },
+          {
+            "name": "Josh Allen",
+            "passing_yards": 287.5,
+            "passing_tds": 1.6
+          }
+        ],
+        "receivers": [
+          {
+            "name": "Tyreek Hill",
+            "receiving_yards": 106.9,
+            "anytime_td": true
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 62,
+        "away_win_probability": 38,
+        "predicted_score": "37-28",
+        "confidence": 77,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "Dallas Cowboys ML",
+            "confidence": 67,
+            "value": 7.8
+          }
+        }
+      }
+    },
+    {
+      "id": "nfl5",
+      "home": "Philadelphia Eagles",
+      "away": "Cincinnati Bengals",
+      "time": "20:20",
+      "date": "2025-12-08",
+      "odds": {
+        "moneyline": {
+          "home": -151,
+          "away": 317
+        },
+        "spread": {
+          "home": -1.8,
+          "away": 1.8
+        },
+        "total": 34.5
+      },
+      "player_props": {
+        "quarterbacks": [
+          {
+            "name": "Patrick Mahomes",
+            "passing_yards": 293.1,
+            "passing_tds": 1.6
+          },
+          {
+            "name": "Josh Allen",
+            "passing_yards": 287.7,
+            "passing_tds": 2.8
+          }
+        ],
+        "receivers": [
+          {
+            "name": "Tyreek Hill",
+            "receiving_yards": 110.6,
+            "anytime_td": true
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 70,
+        "away_win_probability": 30,
+        "predicted_score": "23-28",
+        "confidence": 83,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "Philadelphia Eagles ML",
+            "confidence": 75,
+            "value": 7.9
+          }
+        }
       }
     }
   ],
@@ -253,75 +253,81 @@
     {
       "id": "nba1",
       "home": "Milwaukee Bucks",
-      "away": "Toronto Raptors",
-      "time": "18:00",
+      "away": "New York Knicks",
+      "time": "20:00",
       "date": "2025-12-07",
       "odds": {
         "moneyline": {
-          "home": 337,
-          "away": -220
+          "home": -121,
+          "away": 394
         },
         "spread": {
-          "home": 2.6,
-          "away": -2.6
+          "home": -7.4,
+          "away": 7.4
         },
-        "total": 222.6
+        "total": 244.1
       },
       "player_props": {
         "stars": [
           {
             "name": "LeBron James",
-            "points": 28.6,
-            "rebounds": 9.1,
-            "assists": 8.0
+            "points": 28.5,
+            "rebounds": 7.0,
+            "assists": 7.3
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 55,
-        "away_win_probability": 45,
-        "predicted_score": "105-102",
-        "confidence": 85,
-        "betting_recommendations": {}
+        "home_win_probability": 80,
+        "away_win_probability": 20,
+        "predicted_score": "129-105",
+        "confidence": 78,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "Milwaukee Bucks ML",
+            "confidence": 85,
+            "value": 8.5
+          }
+        }
       }
     },
     {
       "id": "nba2",
-      "home": "Boston Celtics",
-      "away": "Miami Heat",
-      "time": "22:30",
+      "home": "Phoenix Suns",
+      "away": "Brooklyn Nets",
+      "time": "18:00",
       "date": "2025-12-09",
       "odds": {
         "moneyline": {
-          "home": -138,
-          "away": 136
+          "home": 125,
+          "away": -125
         },
         "spread": {
-          "home": -8.2,
-          "away": 8.2
+          "home": 3.9,
+          "away": -3.9
         },
-        "total": 244.9
+        "total": 212.2
       },
       "player_props": {
         "stars": [
           {
             "name": "LeBron James",
-            "points": 25.9,
-            "rebounds": 7.3,
-            "assists": 8.4
+            "points": 27.1,
+            "rebounds": 10.6,
+            "assists": 9.6
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 74,
-        "away_win_probability": 26,
-        "predicted_score": "125-114",
-        "confidence": 90,
+        "home_win_probability": 62,
+        "away_win_probability": 38,
+        "predicted_score": "126-104",
+        "confidence": 79,
         "betting_recommendations": {
           "moneyline": {
-            "pick": "Boston Celtics ML",
-            "confidence": 79,
-            "value": 7.2
+            "pick": "Phoenix Suns ML",
+            "confidence": 67,
+            "value": 7.4
           }
         }
       }
@@ -329,105 +335,111 @@
     {
       "id": "nba3",
       "home": "Phoenix Suns",
-      "away": "Brooklyn Nets",
-      "time": "20:00",
-      "date": "2025-12-07",
+      "away": "Miami Heat",
+      "time": "22:30",
+      "date": "2025-12-09",
       "odds": {
         "moneyline": {
-          "home": -169,
-          "away": 190
+          "home": -241,
+          "away": 371
         },
         "spread": {
-          "home": -4.3,
-          "away": 4.3
+          "home": -7.9,
+          "away": 7.9
         },
-        "total": 228.3
+        "total": 226.5
       },
       "player_props": {
         "stars": [
           {
             "name": "LeBron James",
-            "points": 30.1,
-            "rebounds": 10.7,
-            "assists": 7.7
+            "points": 26.2,
+            "rebounds": 10.5,
+            "assists": 8.9
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 60,
-        "away_win_probability": 40,
-        "predicted_score": "109-105",
-        "confidence": 87,
-        "betting_recommendations": {}
+        "home_win_probability": 66,
+        "away_win_probability": 34,
+        "predicted_score": "128-123",
+        "confidence": 84,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "Phoenix Suns ML",
+            "confidence": 71,
+            "value": 8.6
+          }
+        }
       }
     },
     {
       "id": "nba4",
-      "home": "Los Angeles Lakers",
-      "away": "Los Angeles Clippers",
-      "time": "22:30",
-      "date": "2025-12-08",
+      "home": "Golden State Warriors",
+      "away": "Miami Heat",
+      "time": "20:00",
+      "date": "2025-12-07",
       "odds": {
         "moneyline": {
-          "home": -247,
-          "away": 201
+          "home": -152,
+          "away": 154
         },
         "spread": {
-          "home": -5.0,
-          "away": 5.0
+          "home": -8.8,
+          "away": 8.8
         },
-        "total": 244.5
+        "total": 246.4
       },
       "player_props": {
         "stars": [
           {
             "name": "LeBron James",
-            "points": 30.9,
-            "rebounds": 10.1,
-            "assists": 8.8
+            "points": 30.8,
+            "rebounds": 7.8,
+            "assists": 9.6
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 56,
-        "away_win_probability": 44,
-        "predicted_score": "117-124",
+        "home_win_probability": 53,
+        "away_win_probability": 47,
+        "predicted_score": "122-111",
         "confidence": 77,
         "betting_recommendations": {}
       }
     },
     {
       "id": "nba5",
-      "home": "Golden State Warriors",
-      "away": "Chicago Bulls",
+      "home": "Denver Nuggets",
+      "away": "Miami Heat",
       "time": "18:00",
       "date": "2025-12-07",
       "odds": {
         "moneyline": {
-          "home": -145,
-          "away": 312
+          "home": -231,
+          "away": 314
         },
         "spread": {
-          "home": -1.9,
-          "away": 1.9
+          "home": -8.3,
+          "away": 8.3
         },
-        "total": 232.0
+        "total": 227.1
       },
       "player_props": {
         "stars": [
           {
             "name": "LeBron James",
-            "points": 26.7,
-            "rebounds": 10.5,
-            "assists": 9.3
+            "points": 27.3,
+            "rebounds": 9.4,
+            "assists": 9.9
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 48,
-        "away_win_probability": 52,
-        "predicted_score": "113-113",
-        "confidence": 88,
+        "home_win_probability": 59,
+        "away_win_probability": 41,
+        "predicted_score": "112-124",
+        "confidence": 84,
         "betting_recommendations": {}
       }
     }
@@ -435,101 +447,107 @@
   "nhl": [
     {
       "id": "nhl1",
-      "home": "Boston Bruins",
+      "home": "Vancouver Canucks",
       "away": "Colorado Avalanche",
-      "time": "17:00",
-      "date": "2025-12-07",
+      "time": "19:00",
+      "date": "2025-12-08",
       "odds": {
         "moneyline": {
-          "home": 143,
-          "away": -220
+          "home": -246,
+          "away": 151
         },
         "spread": {
-          "home": 1.2,
-          "away": -1.2
+          "home": -6.7,
+          "away": 6.7
         },
-        "total": 5.6
+        "total": 5.2
       },
       "player_props": {
         "players": [
           {
             "name": "Connor McDavid",
-            "points": 1.6,
-            "goals": 0.6
+            "points": 1.7,
+            "goals": 0.3
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 54,
-        "away_win_probability": 46,
-        "predicted_score": "3-2",
-        "confidence": 86,
+        "home_win_probability": 52,
+        "away_win_probability": 48,
+        "predicted_score": "3-1",
+        "confidence": 77,
         "betting_recommendations": {}
       }
     },
     {
       "id": "nhl2",
       "home": "Montréal Canadiens",
-      "away": "Tampa Bay Lightning",
-      "time": "20:00",
+      "away": "Colorado Avalanche",
+      "time": "17:00",
+      "date": "2025-12-07",
+      "odds": {
+        "moneyline": {
+          "home": -123,
+          "away": 159
+        },
+        "spread": {
+          "home": -7.1,
+          "away": 7.1
+        },
+        "total": 3.9
+      },
+      "player_props": {
+        "players": [
+          {
+            "name": "Connor McDavid",
+            "points": 1.4,
+            "goals": 0.3
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 66,
+        "away_win_probability": 34,
+        "predicted_score": "2-2",
+        "confidence": 90,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "Montréal Canadiens ML",
+            "confidence": 71,
+            "value": 8.5
+          }
+        }
+      }
+    },
+    {
+      "id": "nhl3",
+      "home": "Detroit Red Wings",
+      "away": "New York Rangers",
+      "time": "17:00",
       "date": "2025-12-10",
       "odds": {
         "moneyline": {
-          "home": -222,
-          "away": 260
+          "home": -193,
+          "away": 282
         },
         "spread": {
-          "home": -3.4,
-          "away": 3.4
+          "home": -1.8,
+          "away": 1.8
         },
-        "total": 6.9
+        "total": 8.2
       },
       "player_props": {
         "players": [
           {
             "name": "Connor McDavid",
             "points": 2.0,
-            "goals": 0.4
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 57,
-        "away_win_probability": 43,
-        "predicted_score": "5-2",
-        "confidence": 77,
-        "betting_recommendations": {}
-      }
-    },
-    {
-      "id": "nhl3",
-      "home": "Toronto Maple Leafs",
-      "away": "Washington Capitals",
-      "time": "22:00",
-      "date": "2025-12-09",
-      "odds": {
-        "moneyline": {
-          "home": -230,
-          "away": 377
-        },
-        "spread": {
-          "home": -7.2,
-          "away": 7.2
-        },
-        "total": 7.5
-      },
-      "player_props": {
-        "players": [
-          {
-            "name": "Connor McDavid",
-            "points": 1.3,
             "goals": 0.7
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 59,
-        "away_win_probability": 41,
+        "home_win_probability": 50,
+        "away_win_probability": 50,
         "predicted_score": "2-3",
         "confidence": 79,
         "betting_recommendations": {}
@@ -538,340 +556,300 @@
     {
       "id": "nhl4",
       "home": "Detroit Red Wings",
-      "away": "Colorado Avalanche",
+      "away": "New York Rangers",
       "time": "20:00",
-      "date": "2025-12-08",
+      "date": "2025-12-10",
       "odds": {
         "moneyline": {
-          "home": -149,
-          "away": 170
+          "home": -185,
+          "away": 226
         },
         "spread": {
-          "home": -5.4,
-          "away": 5.4
+          "home": -2.5,
+          "away": 2.5
         },
-        "total": 8.0
+        "total": 6.5
       },
       "player_props": {
         "players": [
           {
             "name": "Connor McDavid",
             "points": 1.4,
-            "goals": 0.6
+            "goals": 0.8
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 58,
-        "away_win_probability": 42,
-        "predicted_score": "3-4",
-        "confidence": 80,
-        "betting_recommendations": {}
+        "home_win_probability": 77,
+        "away_win_probability": 23,
+        "predicted_score": "2-1",
+        "confidence": 78,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "Detroit Red Wings ML",
+            "confidence": 82,
+            "value": 7.6
+          }
+        }
       }
     },
     {
       "id": "nhl5",
       "home": "Chicago Blackhawks",
       "away": "Pittsburgh Penguins",
-      "time": "20:00",
-      "date": "2025-12-10",
+      "time": "19:00",
+      "date": "2025-12-07",
       "odds": {
         "moneyline": {
-          "home": -196,
-          "away": 315
+          "home": -231,
+          "away": 152
         },
         "spread": {
-          "home": -6.8,
-          "away": 6.8
+          "home": -6.2,
+          "away": 6.2
         },
-        "total": 7.2
+        "total": 5.2
       },
       "player_props": {
         "players": [
           {
             "name": "Connor McDavid",
-            "points": 1.5,
-            "goals": 0.5
+            "points": 1.7,
+            "goals": 0.4
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 66,
-        "away_win_probability": 34,
-        "predicted_score": "4-1",
-        "confidence": 91,
-        "betting_recommendations": {
-          "moneyline": {
-            "pick": "Chicago Blackhawks ML",
-            "confidence": 71,
-            "value": 7.3
-          }
-        }
+        "home_win_probability": 42,
+        "away_win_probability": 58,
+        "predicted_score": "5-2",
+        "confidence": 79,
+        "betting_recommendations": {}
       }
     }
   ],
   "ufc": [
     {
       "id": "ufc1",
-      "fighter1": "Alex Pereira",
-      "fighter2": "Max Holloway",
+      "fighter1": "Ilia Topuria",
+      "fighter2": "Colby Covington",
       "time": "01:00",
-      "date": "2025-12-10",
-      "weight_class": "Lightweight",
+      "date": "2025-12-08",
+      "weight_class": "Bantamweight",
       "odds": {
         "moneyline": {
-          "fighter1": -271,
-          "fighter2": 395
+          "fighter1": -141,
+          "fighter2": 471
         },
         "method": {
           "ko_tko": {
-            "fighter1": "+316",
-            "fighter2": "+366"
+            "fighter1": "+299",
+            "fighter2": "+349"
           },
           "submission": {
-            "fighter1": "+429",
-            "fighter2": "+479"
+            "fighter1": "+359",
+            "fighter2": "+409"
           },
           "decision": {
-            "fighter1": "+382",
-            "fighter2": "+432"
+            "fighter1": "+428",
+            "fighter2": "+478"
           }
         }
       },
       "ai_analysis": {
-        "predicted_winner": "Max Holloway",
+        "predicted_winner": "Colby Covington",
         "win_probability": {
-          "fighter1": 39,
-          "fighter2": 61
+          "fighter1": 41,
+          "fighter2": 59
         },
         "method_probabilities": {
-          "ko_tko": 47.2,
-          "submission": 11.3,
-          "decision": 41.5
+          "ko_tko": 37.6,
+          "submission": 17.2,
+          "decision": 45.2
         },
-        "confidence": 85
+        "confidence": 88
       }
     },
     {
       "id": "ufc2",
-      "fighter1": "Ilia Topuria",
-      "fighter2": "Jiri Prochazka",
-      "time": "01:00",
-      "date": "2025-12-07",
-      "weight_class": "Bantamweight",
+      "fighter1": "Islam Makhachev",
+      "fighter2": "Marlon Vera",
+      "time": "23:00",
+      "date": "2025-12-09",
+      "weight_class": "Middleweight",
       "odds": {
         "moneyline": {
-          "fighter1": -202,
-          "fighter2": 319
+          "fighter1": 425,
+          "fighter2": -255
         },
         "method": {
           "ko_tko": {
-            "fighter1": "+393",
-            "fighter2": "+443"
+            "fighter1": "+380",
+            "fighter2": "+430"
           },
           "submission": {
-            "fighter1": "+308",
-            "fighter2": "+358"
+            "fighter1": "+221",
+            "fighter2": "+271"
           },
           "decision": {
-            "fighter1": "+387",
-            "fighter2": "+437"
+            "fighter1": "+423",
+            "fighter2": "+473"
+          }
+        }
+      },
+      "ai_analysis": {
+        "predicted_winner": "Marlon Vera",
+        "win_probability": {
+          "fighter1": 41,
+          "fighter2": 59
+        },
+        "method_probabilities": {
+          "ko_tko": 45.9,
+          "submission": 10.1,
+          "decision": 44.0
+        },
+        "confidence": 84
+      }
+    },
+    {
+      "id": "ufc3",
+      "fighter1": "Ilia Topuria",
+      "fighter2": "Jiri Prochazka",
+      "time": "01:00",
+      "date": "2025-12-08",
+      "weight_class": "Welterweight",
+      "odds": {
+        "moneyline": {
+          "fighter1": -255,
+          "fighter2": 420
+        },
+        "method": {
+          "ko_tko": {
+            "fighter1": "+187",
+            "fighter2": "+237"
+          },
+          "submission": {
+            "fighter1": "+471",
+            "fighter2": "+521"
+          },
+          "decision": {
+            "fighter1": "+384",
+            "fighter2": "+434"
           }
         }
       },
       "ai_analysis": {
         "predicted_winner": "Ilia Topuria",
         "win_probability": {
-          "fighter1": 60,
-          "fighter2": 40
+          "fighter1": 78,
+          "fighter2": 22
         },
         "method_probabilities": {
-          "ko_tko": 45.3,
-          "submission": 34.2,
-          "decision": 20.5
+          "ko_tko": 36.8,
+          "submission": 30.2,
+          "decision": 33.0
         },
-        "confidence": 79
-      }
-    },
-    {
-      "id": "ufc3",
-      "fighter1": "Leon Edwards",
-      "fighter2": "Stipe Miocic",
-      "time": "23:00",
-      "date": "2025-12-09",
-      "weight_class": "Welterweight",
-      "odds": {
-        "moneyline": {
-          "fighter1": -151,
-          "fighter2": 339
-        },
-        "method": {
-          "ko_tko": {
-            "fighter1": "+272",
-            "fighter2": "+322"
-          },
-          "submission": {
-            "fighter1": "+325",
-            "fighter2": "+375"
-          },
-          "decision": {
-            "fighter1": "+390",
-            "fighter2": "+440"
-          }
-        }
-      },
-      "ai_analysis": {
-        "predicted_winner": "Stipe Miocic",
-        "win_probability": {
-          "fighter1": 31,
-          "fighter2": 69
-        },
-        "method_probabilities": {
-          "ko_tko": 39.2,
-          "submission": 17.6,
-          "decision": 43.1
-        },
-        "confidence": 75
+        "confidence": 82
       }
     },
     {
       "id": "ufc4",
-      "fighter1": "Islam Makhachev",
-      "fighter2": "Max Holloway",
-      "time": "22:00",
-      "date": "2025-12-09",
+      "fighter1": "Ilia Topuria",
+      "fighter2": "Jiri Prochazka",
+      "time": "20:00",
+      "date": "2025-12-07",
       "weight_class": "Lightweight",
       "odds": {
         "moneyline": {
-          "fighter1": 320,
-          "fighter2": -187
+          "fighter1": -143,
+          "fighter2": 326
         },
         "method": {
           "ko_tko": {
-            "fighter1": "+256",
-            "fighter2": "+306"
+            "fighter1": "+270",
+            "fighter2": "+320"
           },
           "submission": {
-            "fighter1": "+413",
-            "fighter2": "+463"
+            "fighter1": "+402",
+            "fighter2": "+452"
           },
           "decision": {
-            "fighter1": "+200",
-            "fighter2": "+250"
+            "fighter1": "+216",
+            "fighter2": "+266"
+          }
+        }
+      },
+      "ai_analysis": {
+        "predicted_winner": "Ilia Topuria",
+        "win_probability": {
+          "fighter1": 63,
+          "fighter2": 37
+        },
+        "method_probabilities": {
+          "ko_tko": 36.9,
+          "submission": 14.6,
+          "decision": 48.5
+        },
+        "confidence": 81
+      }
+    },
+    {
+      "id": "ufc5",
+      "fighter1": "Islam Makhachev",
+      "fighter2": "Dustin Poirier",
+      "time": "01:00",
+      "date": "2025-12-10",
+      "weight_class": "Bantamweight",
+      "odds": {
+        "moneyline": {
+          "fighter1": -156,
+          "fighter2": 280
+        },
+        "method": {
+          "ko_tko": {
+            "fighter1": "+369",
+            "fighter2": "+419"
+          },
+          "submission": {
+            "fighter1": "+400",
+            "fighter2": "+450"
+          },
+          "decision": {
+            "fighter1": "+280",
+            "fighter2": "+330"
           }
         }
       },
       "ai_analysis": {
         "predicted_winner": "Islam Makhachev",
         "win_probability": {
-          "fighter1": 78,
-          "fighter2": 22
+          "fighter1": 64,
+          "fighter2": 36
         },
         "method_probabilities": {
-          "ko_tko": 38.7,
-          "submission": 27.5,
-          "decision": 33.8
+          "ko_tko": 39.4,
+          "submission": 32.7,
+          "decision": 27.9
         },
-        "confidence": 87
-      }
-    },
-    {
-      "id": "ufc5",
-      "fighter1": "Jon Jones",
-      "fighter2": "Stipe Miocic",
-      "time": "01:00",
-      "date": "2025-12-08",
-      "weight_class": "Middleweight",
-      "odds": {
-        "moneyline": {
-          "fighter1": 379,
-          "fighter2": -265
-        },
-        "method": {
-          "ko_tko": {
-            "fighter1": "+278",
-            "fighter2": "+328"
-          },
-          "submission": {
-            "fighter1": "+434",
-            "fighter2": "+484"
-          },
-          "decision": {
-            "fighter1": "+357",
-            "fighter2": "+407"
-          }
-        }
-      },
-      "ai_analysis": {
-        "predicted_winner": "Jon Jones",
-        "win_probability": {
-          "fighter1": 79,
-          "fighter2": 21
-        },
-        "method_probabilities": {
-          "ko_tko": 31.5,
-          "submission": 30.6,
-          "decision": 37.9
-        },
-        "confidence": 80
+        "confidence": 85
       }
     }
   ],
   "mlb": [
     {
       "id": "mlb1",
-      "home": "Houston Astros",
-      "away": "Toronto Blue Jays",
-      "time": "13:05",
-      "date": "2025-12-08",
-      "odds": {
-        "moneyline": {
-          "home": -149,
-          "away": 129
-        },
-        "spread": {
-          "home": -6.2,
-          "away": 6.2
-        },
-        "total": 7.0
-      },
-      "player_props": {
-        "batters": [
-          {
-            "name": "Aaron Judge",
-            "hits": 1.6,
-            "home_runs": 0.4
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 70,
-        "away_win_probability": 30,
-        "predicted_score": "6-4",
-        "confidence": 76,
-        "betting_recommendations": {
-          "moneyline": {
-            "pick": "Houston Astros ML",
-            "confidence": 75,
-            "value": 8.1
-          }
-        }
-      }
-    },
-    {
-      "id": "mlb2",
       "home": "Los Angeles Dodgers",
-      "away": "St. Louis Cardinals",
-      "time": "19:10",
+      "away": "Philadelphia Phillies",
+      "time": "16:10",
       "date": "2025-12-08",
       "odds": {
         "moneyline": {
-          "home": -143,
-          "away": 297
+          "home": -195,
+          "away": 163
         },
         "spread": {
-          "home": -7.1,
-          "away": 7.1
+          "home": -4.1,
+          "away": 4.1
         },
         "total": 11.9
       },
@@ -879,122 +857,168 @@
         "batters": [
           {
             "name": "Aaron Judge",
-            "hits": 1.5,
-            "home_runs": 0.6
+            "hits": 1.9,
+            "home_runs": 0.4
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 43,
-        "away_win_probability": 57,
-        "predicted_score": "5-5",
-        "confidence": 84,
+        "home_win_probability": 48,
+        "away_win_probability": 52,
+        "predicted_score": "3-4",
+        "confidence": 88,
+        "betting_recommendations": {}
+      }
+    },
+    {
+      "id": "mlb2",
+      "home": "New York Yankees",
+      "away": "Toronto Blue Jays",
+      "time": "20:10",
+      "date": "2025-12-08",
+      "odds": {
+        "moneyline": {
+          "home": -195,
+          "away": 162
+        },
+        "spread": {
+          "home": -4.7,
+          "away": 4.7
+        },
+        "total": 8.0
+      },
+      "player_props": {
+        "batters": [
+          {
+            "name": "Aaron Judge",
+            "hits": 1.9,
+            "home_runs": 0.5
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 60,
+        "away_win_probability": 40,
+        "predicted_score": "6-2",
+        "confidence": 78,
         "betting_recommendations": {}
       }
     },
     {
       "id": "mlb3",
-      "home": "Houston Astros",
+      "home": "Chicago Cubs",
       "away": "St. Louis Cardinals",
       "time": "16:10",
-      "date": "2025-12-09",
+      "date": "2025-12-08",
       "odds": {
         "moneyline": {
-          "home": -147,
-          "away": 331
+          "home": -164,
+          "away": 120
         },
         "spread": {
-          "home": -1.1,
-          "away": 1.1
+          "home": -2.6,
+          "away": 2.6
         },
-        "total": 5.8
+        "total": 11.0
       },
       "player_props": {
         "batters": [
           {
             "name": "Aaron Judge",
-            "hits": 2.0,
-            "home_runs": 0.2
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 52,
-        "away_win_probability": 48,
-        "predicted_score": "6-6",
-        "confidence": 92,
-        "betting_recommendations": {}
-      }
-    },
-    {
-      "id": "mlb4",
-      "home": "Houston Astros",
-      "away": "St. Louis Cardinals",
-      "time": "19:10",
-      "date": "2025-12-10",
-      "odds": {
-        "moneyline": {
-          "home": 188,
-          "away": -231
-        },
-        "spread": {
-          "home": 2.1,
-          "away": -2.1
-        },
-        "total": 10.2
-      },
-      "player_props": {
-        "batters": [
-          {
-            "name": "Aaron Judge",
-            "hits": 1.3,
-            "home_runs": 0.3
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 52,
-        "away_win_probability": 48,
-        "predicted_score": "8-4",
-        "confidence": 80,
-        "betting_recommendations": {}
-      }
-    },
-    {
-      "id": "mlb5",
-      "home": "New York Yankees",
-      "away": "Texas Rangers",
-      "time": "16:10",
-      "date": "2025-12-10",
-      "odds": {
-        "moneyline": {
-          "home": -186,
-          "away": 291
-        },
-        "spread": {
-          "home": -3.8,
-          "away": 3.8
-        },
-        "total": 12.1
-      },
-      "player_props": {
-        "batters": [
-          {
-            "name": "Aaron Judge",
-            "hits": 1.3,
-            "home_runs": 0.3
+            "hits": 1.2,
+            "home_runs": 0.5
           }
         ]
       },
       "ai_analysis": {
         "home_win_probability": 68,
         "away_win_probability": 32,
-        "predicted_score": "4-7",
-        "confidence": 90,
+        "predicted_score": "5-4",
+        "confidence": 80,
         "betting_recommendations": {
           "moneyline": {
-            "pick": "New York Yankees ML",
+            "pick": "Chicago Cubs ML",
             "confidence": 73,
+            "value": 7.3
+          }
+        }
+      }
+    },
+    {
+      "id": "mlb4",
+      "home": "Houston Astros",
+      "away": "Texas Rangers",
+      "time": "13:05",
+      "date": "2025-12-07",
+      "odds": {
+        "moneyline": {
+          "home": -165,
+          "away": 173
+        },
+        "spread": {
+          "home": -4.3,
+          "away": 4.3
+        },
+        "total": 11.4
+      },
+      "player_props": {
+        "batters": [
+          {
+            "name": "Aaron Judge",
+            "hits": 1.7,
+            "home_runs": 0.3
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 64,
+        "away_win_probability": 36,
+        "predicted_score": "8-3",
+        "confidence": 78,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "Houston Astros ML",
+            "confidence": 69,
+            "value": 8.6
+          }
+        }
+      }
+    },
+    {
+      "id": "mlb5",
+      "home": "Chicago Cubs",
+      "away": "Toronto Blue Jays",
+      "time": "20:10",
+      "date": "2025-12-08",
+      "odds": {
+        "moneyline": {
+          "home": -213,
+          "away": 149
+        },
+        "spread": {
+          "home": -6.0,
+          "away": 6.0
+        },
+        "total": 5.5
+      },
+      "player_props": {
+        "batters": [
+          {
+            "name": "Aaron Judge",
+            "hits": 1.3,
+            "home_runs": 0.5
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 71,
+        "away_win_probability": 29,
+        "predicted_score": "8-2",
+        "confidence": 92,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "Chicago Cubs ML",
+            "confidence": 76,
             "value": 8.9
           }
         }
@@ -1002,7 +1026,7 @@
     }
   ],
   "_metadata": {
-    "generated_at": "2025-12-07T07:32:25.020144",
+    "generated_at": "2025-12-07T08:32:26.316282",
     "version": "2.0.0",
     "total_games": 25,
     "sports": [
