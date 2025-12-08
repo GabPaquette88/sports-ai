@@ -1,133 +1,191 @@
 {
   "nfl": [
     {
-      "id": "nfl1",
-      "home": "Baltimore Ravens",
-      "away": "Miami Dolphins",
-      "time": "13:00",
-      "date": "2025-12-07",
+      "id": "nfl202410131",
+      "home": "SF",
+      "away": "NYJ",
+      "time": "20:15",
+      "date": "2024-09-09",
+      "status": "Final",
+      "stadium": "Unknown Stadium",
       "odds": {
         "moneyline": {
-          "home": -156,
-          "away": 364
+          "home": -227,
+          "away": 131
         },
         "spread": {
-          "home": -4.2,
-          "away": 4.2
+          "home": -4.4,
+          "away": 4.4
         },
-        "total": 51.0
+        "total": 44.6,
+        "last_update": "20:37:39"
       },
       "player_props": {
         "quarterbacks": [
           {
             "name": "Patrick Mahomes",
-            "passing_yards": 312.0,
-            "passing_tds": 1.7
+            "team": "Chiefs",
+            "passing_yards": 272.6,
+            "passing_tds": 2.0,
+            "interceptions": 0.8
           },
           {
             "name": "Josh Allen",
-            "passing_yards": 243.1,
-            "passing_tds": 2.1
+            "team": "Bills",
+            "passing_yards": 293.5,
+            "passing_tds": 2.7,
+            "rushing_yards": 61.2
           }
         ],
-        "receivers": [
+        "running_backs": [
           {
-            "name": "Tyreek Hill",
-            "receiving_yards": 106.3,
+            "name": "Christian McCaffrey",
+            "team": "49ers",
+            "rushing_yards": 80.6,
+            "receiving_yards": 38.8,
             "anytime_td": true
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 40,
-        "away_win_probability": 60,
-        "predicted_score": "33-21",
-        "confidence": 89,
-        "betting_recommendations": {}
+        "home_win_probability": 67,
+        "away_win_probability": 33,
+        "predicted_score": "19-17",
+        "confidence": 77,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "SF ML",
+            "confidence": 72,
+            "value": 7.1
+          }
+        },
+        "generated_at": "2025-12-07T20:37:39.249583"
       },
-      "status": "Simulated Data"
+      "data_source": "SportsData.io API",
+      "api_data": {
+        "GameKey": "202410131",
+        "SeasonType": 1,
+        "Season": 2024,
+        "Week": 1,
+        "Date": "2024-09-09T20:15:00",
+        "AwayTeam": "NYJ",
+        "HomeTeam": "SF",
+        "AwayScore": 27,
+        "HomeScore": 46,
+        "Channel": "ABC",
+        "PointSpread": -5.0,
+        "OverUnder": 62.1,
+        "Quarter": "F",
+        "Distance": "Scrambled",
+        "AwayScoreQuarter1": 14,
+        "AwayScoreQuarter2": 0,
+        "AwayScoreQuarter3": 12,
+        "AwayScoreQuarter4": 12,
+        "AwayScoreOvertime": 0,
+        "HomeScoreQuarter1": 6,
+        "HomeScoreQuarter2": 19,
+        "HomeScoreQuarter3": 14,
+        "HomeScoreQuarter4": 12,
+        "HomeScoreOvertime": 0,
+        "HasStarted": true,
+        "IsInProgress": false,
+        "IsOver": true,
+        "Has1stQuarterStarted": true,
+        "Has2ndQuarterStarted": true,
+        "Has3rdQuarterStarted": true,
+        "Has4thQuarterStarted": true,
+        "IsOvertime": false,
+        "QuarterDescription": "Final",
+        "StadiumID": 37,
+        "LastUpdated": "2024-11-05T17:15:36",
+        "ForecastTempLow": 63,
+        "ForecastTempHigh": 64,
+        "ForecastDescription": "Clear Sky",
+        "ForecastWindChill": 64,
+        "ForecastWindSpeed": 3,
+        "AwayTeamMoneyLine": 231,
+        "HomeTeamMoneyLine": -281,
+        "Canceled": false,
+        "Closed": true,
+        "LastPlay": "Scrambled",
+        "Day": "2024-09-09T00:00:00",
+        "DateTime": "2024-09-09T20:15:00",
+        "AwayTeamID": 24,
+        "HomeTeamID": 31,
+        "GlobalGameID": 18669,
+        "GlobalAwayTeamID": 24,
+        "GlobalHomeTeamID": 31,
+        "PointSpreadAwayTeamMoneyLine": -157,
+        "PointSpreadHomeTeamMoneyLine": -159,
+        "ScoreID": 18669,
+        "Status": "Final",
+        "GameEndDateTime": "2024-09-09T23:09:09",
+        "HomeRotationNumber": 688,
+        "AwayRotationNumber": 687,
+        "NeutralVenue": false,
+        "RefereeID": 23,
+        "OverPayout": -156,
+        "UnderPayout": -161,
+        "DateTimeUTC": "2024-09-10T00:15:00",
+        "Attendance": 71319,
+        "IsClosed": true,
+        "StadiumDetails": {
+          "StadiumID": 37,
+          "Name": "Levi's Stadium",
+          "City": "Santa Clara",
+          "State": "CA",
+          "Country": "USA",
+          "Capacity": 68500,
+          "PlayingSurface": "Grass",
+          "GeoLat": 37.403,
+          "GeoLong": -121.970274,
+          "Type": "Outdoor"
+        }
+      }
     },
     {
-      "id": "nfl2",
-      "home": "Baltimore Ravens",
-      "away": "Los Angeles Rams",
-      "time": "16:25",
-      "date": "2025-12-10",
+      "id": "nfl202410111",
+      "home": "DET",
+      "away": "LAR",
+      "time": "20:20",
+      "date": "2024-09-08",
+      "status": "F/OT",
+      "stadium": "Unknown Stadium",
       "odds": {
         "moneyline": {
-          "home": -180,
-          "away": 326
+          "home": -162,
+          "away": 229
         },
         "spread": {
-          "home": -7.0,
-          "away": 7.0
+          "home": -8.4,
+          "away": 8.4
         },
-        "total": 53.3
+        "total": 37.9,
+        "last_update": "20:37:39"
       },
       "player_props": {
         "quarterbacks": [
           {
             "name": "Patrick Mahomes",
-            "passing_yards": 290.2,
-            "passing_tds": 1.7
+            "team": "Chiefs",
+            "passing_yards": 250.5,
+            "passing_tds": 2.2,
+            "interceptions": 0.7
           },
           {
             "name": "Josh Allen",
-            "passing_yards": 247.0,
-            "passing_tds": 2.6
+            "team": "Bills",
+            "passing_yards": 282.9,
+            "passing_tds": 2.4,
+            "rushing_yards": 62.1
           }
         ],
-        "receivers": [
+        "running_backs": [
           {
-            "name": "Tyreek Hill",
-            "receiving_yards": 118.7,
-            "anytime_td": false
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 60,
-        "away_win_probability": 40,
-        "predicted_score": "31-19",
-        "confidence": 78,
-        "betting_recommendations": {}
-      },
-      "status": "Simulated Data"
-    },
-    {
-      "id": "nfl3",
-      "home": "Baltimore Ravens",
-      "away": "Miami Dolphins",
-      "time": "13:00",
-      "date": "2025-12-14",
-      "odds": {
-        "moneyline": {
-          "home": 228,
-          "away": -170
-        },
-        "spread": {
-          "home": 3.2,
-          "away": -3.2
-        },
-        "total": 50.7
-      },
-      "player_props": {
-        "quarterbacks": [
-          {
-            "name": "Patrick Mahomes",
-            "passing_yards": 307.3,
-            "passing_tds": 3.3
-          },
-          {
-            "name": "Josh Allen",
-            "passing_yards": 259.6,
-            "passing_tds": 2.6
-          }
-        ],
-        "receivers": [
-          {
-            "name": "Tyreek Hill",
-            "receiving_yards": 95.9,
+            "name": "Christian McCaffrey",
+            "team": "49ers",
+            "rushing_yards": 113.2,
+            "receiving_yards": 28.6,
             "anytime_td": true
           }
         ]
@@ -135,759 +193,1564 @@
       "ai_analysis": {
         "home_win_probability": 61,
         "away_win_probability": 39,
-        "predicted_score": "32-28",
-        "confidence": 82,
+        "predicted_score": "27-20",
+        "confidence": 83,
         "betting_recommendations": {
           "moneyline": {
-            "pick": "Baltimore Ravens ML",
+            "pick": "DET ML",
             "confidence": 66,
-            "value": 7.7
+            "value": 7.8
           }
-        }
+        },
+        "generated_at": "2025-12-07T20:37:39.249668"
       },
-      "status": "Simulated Data"
+      "data_source": "SportsData.io API",
+      "api_data": {
+        "GameKey": "202410111",
+        "SeasonType": 1,
+        "Season": 2024,
+        "Week": 1,
+        "Date": "2024-09-08T20:20:00",
+        "AwayTeam": "LAR",
+        "HomeTeam": "DET",
+        "AwayScore": 29,
+        "HomeScore": 37,
+        "Channel": "NBC",
+        "PointSpread": -7.9,
+        "OverUnder": 76.4,
+        "Quarter": "F/OT",
+        "Distance": "Scrambled",
+        "AwayScoreQuarter1": 6,
+        "AwayScoreQuarter2": 0,
+        "AwayScoreQuarter3": 14,
+        "AwayScoreQuarter4": 14,
+        "AwayScoreOvertime": 0,
+        "HomeScoreQuarter1": 0,
+        "HomeScoreQuarter2": 14,
+        "HomeScoreQuarter3": 14,
+        "HomeScoreQuarter4": 6,
+        "HomeScoreOvertime": 12,
+        "HasStarted": true,
+        "IsInProgress": false,
+        "IsOver": true,
+        "Has1stQuarterStarted": true,
+        "Has2ndQuarterStarted": true,
+        "Has3rdQuarterStarted": true,
+        "Has4thQuarterStarted": true,
+        "IsOvertime": true,
+        "QuarterDescription": "Final/OT",
+        "StadiumID": 21,
+        "LastUpdated": "2024-11-05T17:15:36",
+        "ForecastTempLow": 59,
+        "ForecastTempHigh": 61,
+        "ForecastDescription": "Broken Clouds",
+        "ForecastWindChill": 61,
+        "ForecastWindSpeed": 5,
+        "AwayTeamMoneyLine": 288,
+        "HomeTeamMoneyLine": -351,
+        "Canceled": false,
+        "Closed": true,
+        "LastPlay": "Scrambled",
+        "Day": "2024-09-08T00:00:00",
+        "DateTime": "2024-09-08T20:20:00",
+        "AwayTeamID": 32,
+        "HomeTeamID": 11,
+        "GlobalGameID": 18670,
+        "GlobalAwayTeamID": 32,
+        "GlobalHomeTeamID": 11,
+        "PointSpreadAwayTeamMoneyLine": -159,
+        "PointSpreadHomeTeamMoneyLine": -157,
+        "ScoreID": 18670,
+        "Status": "F/OT",
+        "GameEndDateTime": "2024-09-08T23:37:30",
+        "HomeRotationNumber": 685,
+        "AwayRotationNumber": 684,
+        "NeutralVenue": false,
+        "RefereeID": 47,
+        "OverPayout": -160,
+        "UnderPayout": -156,
+        "DateTimeUTC": "2024-09-09T00:20:00",
+        "Attendance": 66530,
+        "IsClosed": true,
+        "StadiumDetails": {
+          "StadiumID": 21,
+          "Name": "Ford Field",
+          "City": "Detroit",
+          "State": "MI",
+          "Country": "USA",
+          "Capacity": 65000,
+          "PlayingSurface": "Artificial",
+          "GeoLat": 42.340021,
+          "GeoLong": -83.045556,
+          "Type": "Dome"
+        }
+      }
     },
     {
-      "id": "nfl4",
-      "home": "Philadelphia Eagles",
-      "away": "Miami Dolphins",
-      "time": "20:20",
-      "date": "2025-12-07",
+      "id": "nfl202410108",
+      "home": "CLE",
+      "away": "DAL",
+      "time": "16:25",
+      "date": "2024-09-08",
+      "status": "Final",
+      "stadium": "Unknown Stadium",
       "odds": {
         "moneyline": {
-          "home": -160,
-          "away": 283
+          "home": -230,
+          "away": 116
         },
         "spread": {
-          "home": -7.2,
-          "away": 7.2
+          "home": -3.2,
+          "away": 3.2
         },
-        "total": 36.9
+        "total": 48.7,
+        "last_update": "20:37:39"
       },
       "player_props": {
         "quarterbacks": [
           {
             "name": "Patrick Mahomes",
-            "passing_yards": 299.5,
-            "passing_tds": 2.2
+            "team": "Chiefs",
+            "passing_yards": 290.7,
+            "passing_tds": 3.1,
+            "interceptions": 0.4
           },
           {
             "name": "Josh Allen",
-            "passing_yards": 309.7,
-            "passing_tds": 2.2
+            "team": "Bills",
+            "passing_yards": 243.0,
+            "passing_tds": 1.9,
+            "rushing_yards": 44.7
           }
         ],
-        "receivers": [
+        "running_backs": [
           {
-            "name": "Tyreek Hill",
-            "receiving_yards": 85.7,
+            "name": "Christian McCaffrey",
+            "team": "49ers",
+            "rushing_yards": 96.3,
+            "receiving_yards": 32.7,
             "anytime_td": true
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 67,
-        "away_win_probability": 33,
-        "predicted_score": "36-29",
+        "home_win_probability": 63,
+        "away_win_probability": 37,
+        "predicted_score": "28-26",
         "confidence": 91,
         "betting_recommendations": {
           "moneyline": {
-            "pick": "Philadelphia Eagles ML",
-            "confidence": 72,
-            "value": 8.6
+            "pick": "CLE ML",
+            "confidence": 68,
+            "value": 7.3
           }
-        }
+        },
+        "generated_at": "2025-12-07T20:37:39.249730"
       },
-      "status": "Simulated Data"
+      "data_source": "SportsData.io API",
+      "api_data": {
+        "GameKey": "202410108",
+        "SeasonType": 1,
+        "Season": 2024,
+        "Week": 1,
+        "Date": "2024-09-08T16:25:00",
+        "AwayTeam": "DAL",
+        "HomeTeam": "CLE",
+        "AwayScore": 47,
+        "HomeScore": 24,
+        "Channel": "FOX",
+        "PointSpread": -2.9,
+        "OverUnder": 59.3,
+        "Quarter": "F",
+        "Distance": "Scrambled",
+        "AwayScoreQuarter1": 14,
+        "AwayScoreQuarter2": 19,
+        "AwayScoreQuarter3": 14,
+        "AwayScoreQuarter4": 6,
+        "AwayScoreOvertime": 0,
+        "HomeScoreQuarter1": 6,
+        "HomeScoreQuarter2": 0,
+        "HomeScoreQuarter3": 14,
+        "HomeScoreQuarter4": 14,
+        "HomeScoreOvertime": 0,
+        "HasStarted": true,
+        "IsInProgress": false,
+        "IsOver": true,
+        "Has1stQuarterStarted": true,
+        "Has2ndQuarterStarted": true,
+        "Has3rdQuarterStarted": true,
+        "Has4thQuarterStarted": true,
+        "IsOvertime": false,
+        "QuarterDescription": "Final",
+        "StadiumID": 6,
+        "LastUpdated": "2024-11-05T17:15:36",
+        "ForecastTempLow": 59,
+        "ForecastTempHigh": 60,
+        "ForecastDescription": "Few Clouds",
+        "ForecastWindChill": 59,
+        "ForecastWindSpeed": 7,
+        "AwayTeamMoneyLine": 159,
+        "HomeTeamMoneyLine": -190,
+        "Canceled": false,
+        "Closed": true,
+        "LastPlay": "Scrambled",
+        "Day": "2024-09-08T00:00:00",
+        "DateTime": "2024-09-08T16:25:00",
+        "AwayTeamID": 9,
+        "HomeTeamID": 8,
+        "GlobalGameID": 18671,
+        "GlobalAwayTeamID": 9,
+        "GlobalHomeTeamID": 8,
+        "PointSpreadAwayTeamMoneyLine": -159,
+        "PointSpreadHomeTeamMoneyLine": -157,
+        "ScoreID": 18671,
+        "Status": "Final",
+        "GameEndDateTime": "2024-09-08T19:45:08",
+        "HomeRotationNumber": 683,
+        "AwayRotationNumber": 681,
+        "NeutralVenue": false,
+        "RefereeID": 10,
+        "OverPayout": -160,
+        "UnderPayout": -156,
+        "DateTimeUTC": "2024-09-08T20:25:00",
+        "Attendance": 67431,
+        "IsClosed": true,
+        "StadiumDetails": {
+          "StadiumID": 6,
+          "Name": "Huntington Bank Field",
+          "City": "Cleveland",
+          "State": "OH",
+          "Country": "USA",
+          "Capacity": 67431,
+          "PlayingSurface": "Grass",
+          "GeoLat": 41.506111,
+          "GeoLong": -81.699444,
+          "Type": "Outdoor"
+        }
+      }
     },
     {
-      "id": "nfl5",
-      "home": "Philadelphia Eagles",
-      "away": "Tampa Bay Buccaneers",
-      "time": "13:00",
-      "date": "2025-12-08",
+      "id": "nfl202410133",
+      "home": "TB",
+      "away": "WAS",
+      "time": "16:25",
+      "date": "2024-09-08",
+      "status": "Final",
+      "stadium": "Unknown Stadium",
       "odds": {
         "moneyline": {
-          "home": -148,
-          "away": 124
+          "home": -134,
+          "away": 368
         },
         "spread": {
-          "home": -3.5,
-          "away": 3.5
+          "home": -4.4,
+          "away": 4.4
         },
-        "total": 45.3
+        "total": 45.7,
+        "last_update": "20:37:39"
       },
       "player_props": {
         "quarterbacks": [
           {
             "name": "Patrick Mahomes",
-            "passing_yards": 268.1,
-            "passing_tds": 2.5
+            "team": "Chiefs",
+            "passing_yards": 264.8,
+            "passing_tds": 2.6,
+            "interceptions": 0.5
           },
           {
             "name": "Josh Allen",
-            "passing_yards": 309.0,
-            "passing_tds": 1.7
+            "team": "Bills",
+            "passing_yards": 241.0,
+            "passing_tds": 2.3,
+            "rushing_yards": 37.2
           }
         ],
-        "receivers": [
+        "running_backs": [
           {
-            "name": "Tyreek Hill",
-            "receiving_yards": 92.5,
+            "name": "Christian McCaffrey",
+            "team": "49ers",
+            "rushing_yards": 128.9,
+            "receiving_yards": 26.4,
             "anytime_td": false
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 48,
-        "away_win_probability": 52,
-        "predicted_score": "35-16",
-        "confidence": 87,
-        "betting_recommendations": {}
+        "home_win_probability": 74,
+        "away_win_probability": 26,
+        "predicted_score": "19-15",
+        "confidence": 79,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "TB ML",
+            "confidence": 79,
+            "value": 8.1
+          }
+        },
+        "generated_at": "2025-12-07T20:37:39.249784"
       },
-      "status": "Simulated Data"
-    }
-  ],
-  "nba": [
+      "data_source": "SportsData.io API",
+      "api_data": {
+        "GameKey": "202410133",
+        "SeasonType": 1,
+        "Season": 2024,
+        "Week": 1,
+        "Date": "2024-09-08T16:25:00",
+        "AwayTeam": "WAS",
+        "HomeTeam": "TB",
+        "AwayScore": 29,
+        "HomeScore": 53,
+        "Channel": "FOX",
+        "PointSpread": -5.7,
+        "OverUnder": 60.7,
+        "Quarter": "F",
+        "Distance": "Scrambled",
+        "AwayScoreQuarter1": 0,
+        "AwayScoreQuarter2": 14,
+        "AwayScoreQuarter3": 14,
+        "AwayScoreQuarter4": 12,
+        "AwayScoreOvertime": 0,
+        "HomeScoreQuarter1": 12,
+        "HomeScoreQuarter2": 14,
+        "HomeScoreQuarter3": 14,
+        "HomeScoreQuarter4": 20,
+        "HomeScoreOvertime": 0,
+        "HasStarted": true,
+        "IsInProgress": false,
+        "IsOver": true,
+        "Has1stQuarterStarted": true,
+        "Has2ndQuarterStarted": true,
+        "Has3rdQuarterStarted": true,
+        "Has4thQuarterStarted": true,
+        "IsOvertime": false,
+        "QuarterDescription": "Final",
+        "StadiumID": 24,
+        "LastUpdated": "2024-11-05T17:15:36",
+        "ForecastTempLow": 78,
+        "ForecastTempHigh": 79,
+        "ForecastDescription": "Light Rain",
+        "ForecastWindChill": 78,
+        "ForecastWindSpeed": 7,
+        "AwayTeamMoneyLine": 236,
+        "HomeTeamMoneyLine": -286,
+        "Canceled": false,
+        "Closed": true,
+        "LastPlay": "Scrambled",
+        "Day": "2024-09-08T00:00:00",
+        "DateTime": "2024-09-08T16:25:00",
+        "AwayTeamID": 35,
+        "HomeTeamID": 33,
+        "GlobalGameID": 18672,
+        "GlobalAwayTeamID": 35,
+        "GlobalHomeTeamID": 33,
+        "PointSpreadAwayTeamMoneyLine": -160,
+        "PointSpreadHomeTeamMoneyLine": -156,
+        "ScoreID": 18672,
+        "Status": "Final",
+        "GameEndDateTime": "2024-09-08T19:28:39",
+        "HomeRotationNumber": 677,
+        "AwayRotationNumber": 675,
+        "NeutralVenue": false,
+        "RefereeID": 112,
+        "OverPayout": -157,
+        "UnderPayout": -159,
+        "DateTimeUTC": "2024-09-08T20:25:00",
+        "Attendance": 63020,
+        "IsClosed": true,
+        "StadiumDetails": {
+          "StadiumID": 24,
+          "Name": "Raymond James Stadium",
+          "City": "Tampa Bay",
+          "State": "FL",
+          "Country": "USA",
+          "Capacity": 69218,
+          "PlayingSurface": "Grass",
+          "GeoLat": 27.975833,
+          "GeoLong": -82.503333,
+          "Type": "Outdoor"
+        }
+      }
+    },
     {
-      "id": "nba1",
-      "home": "Phoenix Suns",
-      "away": "Miami Heat",
-      "time": "18:00",
-      "date": "2025-12-09",
+      "id": "nfl202410129",
+      "home": "LAC",
+      "away": "LV",
+      "time": "16:05",
+      "date": "2024-09-08",
+      "status": "Final",
+      "stadium": "Unknown Stadium",
       "odds": {
         "moneyline": {
-          "home": 117,
-          "away": -250
+          "home": -120,
+          "away": 137
         },
         "spread": {
-          "home": 3.2,
-          "away": -3.2
+          "home": -2.2,
+          "away": 2.2
         },
-        "total": 225.9
+        "total": 38.8,
+        "last_update": "20:37:39"
       },
       "player_props": {
-        "stars": [
+        "quarterbacks": [
           {
-            "name": "LeBron James",
-            "points": 26.7,
-            "rebounds": 9.9,
-            "assists": 8.8
+            "name": "Patrick Mahomes",
+            "team": "Chiefs",
+            "passing_yards": 296.8,
+            "passing_tds": 2.4,
+            "interceptions": 0.8
           },
           {
-            "name": "Stephen Curry",
-            "points": 33.9,
-            "threes": 5.7
+            "name": "Josh Allen",
+            "team": "Bills",
+            "passing_yards": 262.6,
+            "passing_tds": 2.4,
+            "rushing_yards": 40.4
+          }
+        ],
+        "running_backs": [
+          {
+            "name": "Christian McCaffrey",
+            "team": "49ers",
+            "rushing_yards": 110.6,
+            "receiving_yards": 36.6,
+            "anytime_td": true
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 42,
-        "away_win_probability": 58,
-        "predicted_score": "119-104",
-        "confidence": 92,
-        "betting_recommendations": {}
+        "home_win_probability": 63,
+        "away_win_probability": 37,
+        "predicted_score": "29-17",
+        "confidence": 79,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "LAC ML",
+            "confidence": 68,
+            "value": 7.2
+          }
+        },
+        "generated_at": "2025-12-07T20:37:39.249832"
       },
-      "status": "Simulated Data"
+      "data_source": "SportsData.io API",
+      "api_data": {
+        "GameKey": "202410129",
+        "SeasonType": 1,
+        "Season": 2024,
+        "Week": 1,
+        "Date": "2024-09-08T16:05:00",
+        "AwayTeam": "LV",
+        "HomeTeam": "LAC",
+        "AwayScore": 14,
+        "HomeScore": 31,
+        "Channel": "CBS",
+        "PointSpread": -4.3,
+        "OverUnder": 57.8,
+        "Quarter": "F",
+        "Distance": "Scrambled",
+        "AwayScoreQuarter1": 14,
+        "AwayScoreQuarter2": 0,
+        "AwayScoreQuarter3": 0,
+        "AwayScoreQuarter4": 6,
+        "AwayScoreOvertime": 0,
+        "HomeScoreQuarter1": 6,
+        "HomeScoreQuarter2": 6,
+        "HomeScoreQuarter3": 6,
+        "HomeScoreQuarter4": 19,
+        "HomeScoreOvertime": 0,
+        "HasStarted": true,
+        "IsInProgress": false,
+        "IsOver": true,
+        "Has1stQuarterStarted": true,
+        "Has2ndQuarterStarted": true,
+        "Has3rdQuarterStarted": true,
+        "Has4thQuarterStarted": true,
+        "IsOvertime": false,
+        "QuarterDescription": "Final",
+        "StadiumID": 54,
+        "LastUpdated": "2024-11-05T17:15:36",
+        "ForecastTempLow": 83,
+        "ForecastTempHigh": 83,
+        "ForecastDescription": "Clear Sky",
+        "ForecastWindChill": 83,
+        "ForecastWindSpeed": 3,
+        "AwayTeamMoneyLine": 187,
+        "HomeTeamMoneyLine": -223,
+        "Canceled": false,
+        "Closed": true,
+        "LastPlay": "Scrambled",
+        "Day": "2024-09-08T00:00:00",
+        "DateTime": "2024-09-08T16:05:00",
+        "AwayTeamID": 25,
+        "HomeTeamID": 29,
+        "GlobalGameID": 18673,
+        "GlobalAwayTeamID": 25,
+        "GlobalHomeTeamID": 29,
+        "PointSpreadAwayTeamMoneyLine": -169,
+        "PointSpreadHomeTeamMoneyLine": -147,
+        "ScoreID": 18673,
+        "Status": "Final",
+        "GameEndDateTime": "2024-09-08T18:57:03",
+        "HomeRotationNumber": 674,
+        "AwayRotationNumber": 673,
+        "NeutralVenue": false,
+        "RefereeID": 76,
+        "OverPayout": -164,
+        "UnderPayout": -150,
+        "DateTimeUTC": "2024-09-08T20:05:00",
+        "Attendance": 70240,
+        "IsClosed": true,
+        "StadiumDetails": {
+          "StadiumID": 54,
+          "Name": "SoFi Stadium",
+          "City": "Inglewood",
+          "State": "CA",
+          "Country": "USA",
+          "Capacity": 70240,
+          "PlayingSurface": "Artificial",
+          "GeoLat": 33.95345,
+          "GeoLong": -118.3392,
+          "Type": "Dome"
+        }
+      }
     },
     {
-      "id": "nba2",
-      "home": "Phoenix Suns",
-      "away": "Los Angeles Clippers",
-      "time": "18:00",
-      "date": "2025-12-07",
+      "id": "nfl202410130",
+      "home": "SEA",
+      "away": "DEN",
+      "time": "16:05",
+      "date": "2024-09-08",
+      "status": "Final",
+      "stadium": "Unknown Stadium",
       "odds": {
         "moneyline": {
-          "home": -192,
-          "away": 264
+          "home": 327,
+          "away": -124
         },
         "spread": {
-          "home": -4.9,
-          "away": 4.9
+          "home": 2.1,
+          "away": -2.1
         },
-        "total": 215.9
+        "total": 53.7,
+        "last_update": "20:37:39"
       },
       "player_props": {
-        "stars": [
+        "quarterbacks": [
+          {
+            "name": "Patrick Mahomes",
+            "team": "Chiefs",
+            "passing_yards": 275.1,
+            "passing_tds": 3.2,
+            "interceptions": 0.3
+          },
+          {
+            "name": "Josh Allen",
+            "team": "Bills",
+            "passing_yards": 297.8,
+            "passing_tds": 1.7,
+            "rushing_yards": 43.1
+          }
+        ],
+        "running_backs": [
+          {
+            "name": "Christian McCaffrey",
+            "team": "49ers",
+            "rushing_yards": 91.0,
+            "receiving_yards": 44.3,
+            "anytime_td": false
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 54,
+        "away_win_probability": 46,
+        "predicted_score": "30-34",
+        "confidence": 83,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T20:37:39.249879"
+      },
+      "data_source": "SportsData.io API",
+      "api_data": {
+        "GameKey": "202410130",
+        "SeasonType": 1,
+        "Season": 2024,
+        "Week": 1,
+        "Date": "2024-09-08T16:05:00",
+        "AwayTeam": "DEN",
+        "HomeTeam": "SEA",
+        "AwayScore": 29,
+        "HomeScore": 37,
+        "Channel": "CBS",
+        "PointSpread": -9.3,
+        "OverUnder": 60.0,
+        "Quarter": "F",
+        "Distance": "Scrambled",
+        "AwayScoreQuarter1": 6,
+        "AwayScoreQuarter2": 14,
+        "AwayScoreQuarter3": 0,
+        "AwayScoreQuarter4": 14,
+        "AwayScoreOvertime": 0,
+        "HomeScoreQuarter1": 6,
+        "HomeScoreQuarter2": 12,
+        "HomeScoreQuarter3": 14,
+        "HomeScoreQuarter4": 14,
+        "HomeScoreOvertime": 0,
+        "HasStarted": true,
+        "IsInProgress": false,
+        "IsOver": true,
+        "Has1stQuarterStarted": true,
+        "Has2ndQuarterStarted": true,
+        "Has3rdQuarterStarted": true,
+        "Has4thQuarterStarted": true,
+        "IsOvertime": false,
+        "QuarterDescription": "Final",
+        "StadiumID": 31,
+        "LastUpdated": "2024-11-05T17:15:36",
+        "ForecastTempLow": 63,
+        "ForecastTempHigh": 65,
+        "ForecastDescription": "Few Clouds",
+        "ForecastWindChill": 65,
+        "ForecastWindSpeed": 5,
+        "AwayTeamMoneyLine": 328,
+        "HomeTeamMoneyLine": -404,
+        "Canceled": false,
+        "Closed": true,
+        "LastPlay": "Scrambled",
+        "Day": "2024-09-08T00:00:00",
+        "DateTime": "2024-09-08T16:05:00",
+        "AwayTeamID": 10,
+        "HomeTeamID": 30,
+        "GlobalGameID": 18674,
+        "GlobalAwayTeamID": 10,
+        "GlobalHomeTeamID": 30,
+        "PointSpreadAwayTeamMoneyLine": -154,
+        "PointSpreadHomeTeamMoneyLine": -161,
+        "ScoreID": 18674,
+        "Status": "Final",
+        "GameEndDateTime": "2024-09-08T19:21:30",
+        "HomeRotationNumber": 680,
+        "AwayRotationNumber": 678,
+        "NeutralVenue": false,
+        "RefereeID": 1,
+        "OverPayout": -157,
+        "UnderPayout": -157,
+        "DateTimeUTC": "2024-09-08T20:05:00",
+        "Attendance": 68714,
+        "IsClosed": true,
+        "StadiumDetails": {
+          "StadiumID": 31,
+          "Name": "Lumen Field",
+          "City": "Seattle",
+          "State": "WA",
+          "Country": "USA",
+          "Capacity": 68740,
+          "PlayingSurface": "Artificial",
+          "GeoLat": 47.5952,
+          "GeoLong": -122.331625,
+          "Type": "Outdoor"
+        }
+      }
+    }
+  ],
+  "nba": [
+    {
+      "id": "nba19593",
+      "home": "DEN",
+      "away": "LAL",
+      "time": "19:30",
+      "date": "2023-10-24",
+      "status": "Final",
+      "odds": {
+        "moneyline": {
+          "home": -133,
+          "away": 427
+        },
+        "spread": {
+          "home": -9.2,
+          "away": 9.2
+        },
+        "total": 248.8,
+        "last_update": "20:37:40"
+      },
+      "player_props": {
+        "players": [
           {
             "name": "LeBron James",
-            "points": 28.6,
-            "rebounds": 9.4,
-            "assists": 9.8
+            "team": "Lakers",
+            "points": 25.7,
+            "rebounds": 9.0,
+            "assists": 8.7,
+            "threes": 1.6
           },
           {
             "name": "Stephen Curry",
-            "points": 32.4,
-            "threes": 5.7
+            "team": "Warriors",
+            "points": 28.1,
+            "threes": 4.1,
+            "assists": 7.6
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 51,
+        "away_win_probability": 49,
+        "predicted_score": "114-121",
+        "confidence": 77,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T20:37:40.720041"
+      },
+      "data_source": "SportsData.io API"
+    },
+    {
+      "id": "nba19594",
+      "home": "GS",
+      "away": "PHO",
+      "time": "22:00",
+      "date": "2023-10-24",
+      "status": "Final",
+      "odds": {
+        "moneyline": {
+          "home": 191,
+          "away": -222
+        },
+        "spread": {
+          "home": 8.2,
+          "away": -8.2
+        },
+        "total": 244.3,
+        "last_update": "20:37:40"
+      },
+      "player_props": {
+        "players": [
+          {
+            "name": "LeBron James",
+            "team": "Lakers",
+            "points": 25.3,
+            "rebounds": 9.0,
+            "assists": 9.0,
+            "threes": 2.4
+          },
+          {
+            "name": "Stephen Curry",
+            "team": "Warriors",
+            "points": 33.7,
+            "threes": 6.3,
+            "assists": 8.5
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 40,
+        "away_win_probability": 60,
+        "predicted_score": "124-103",
+        "confidence": 83,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T20:37:40.720143"
+      },
+      "data_source": "SportsData.io API"
+    },
+    {
+      "id": "nba19595",
+      "home": "CHA",
+      "away": "ATL",
+      "time": "19:00",
+      "date": "2023-10-25",
+      "status": "Final",
+      "odds": {
+        "moneyline": {
+          "home": -169,
+          "away": 303
+        },
+        "spread": {
+          "home": -8.9,
+          "away": 8.9
+        },
+        "total": 236.8,
+        "last_update": "20:37:40"
+      },
+      "player_props": {
+        "players": [
+          {
+            "name": "LeBron James",
+            "team": "Lakers",
+            "points": 26.6,
+            "rebounds": 8.4,
+            "assists": 7.7,
+            "threes": 2.5
+          },
+          {
+            "name": "Stephen Curry",
+            "team": "Warriors",
+            "points": 27.9,
+            "threes": 4.6,
+            "assists": 6.2
           }
         ]
       },
       "ai_analysis": {
         "home_win_probability": 49,
         "away_win_probability": 51,
-        "predicted_score": "114-115",
-        "confidence": 84,
-        "betting_recommendations": {}
+        "predicted_score": "116-112",
+        "confidence": 80,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T20:37:40.720217"
       },
-      "status": "Simulated Data"
+      "data_source": "SportsData.io API"
     },
     {
-      "id": "nba3",
-      "home": "Denver Nuggets",
-      "away": "Los Angeles Clippers",
-      "time": "22:30",
-      "date": "2025-12-08",
+      "id": "nba19596",
+      "home": "IND",
+      "away": "WAS",
+      "time": "19:00",
+      "date": "2023-10-25",
+      "status": "Final",
       "odds": {
         "moneyline": {
-          "home": 431,
-          "away": -256
+          "home": 296,
+          "away": -251
         },
         "spread": {
-          "home": 7.6,
-          "away": -7.6
+          "home": 3.8,
+          "away": -3.8
         },
-        "total": 222.1
+        "total": 248.9,
+        "last_update": "20:37:40"
       },
       "player_props": {
-        "stars": [
+        "players": [
           {
             "name": "LeBron James",
-            "points": 25.8,
-            "rebounds": 8.1,
-            "assists": 7.8
-          },
-          {
-            "name": "Stephen Curry",
-            "points": 26.8,
-            "threes": 5.1
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 45,
-        "away_win_probability": 55,
-        "predicted_score": "121-110",
-        "confidence": 87,
-        "betting_recommendations": {}
-      },
-      "status": "Simulated Data"
-    },
-    {
-      "id": "nba4",
-      "home": "Milwaukee Bucks",
-      "away": "Los Angeles Clippers",
-      "time": "20:00",
-      "date": "2025-12-09",
-      "odds": {
-        "moneyline": {
-          "home": -297,
-          "away": 456
-        },
-        "spread": {
-          "home": -8.7,
-          "away": 8.7
-        },
-        "total": 246.0
-      },
-      "player_props": {
-        "stars": [
-          {
-            "name": "LeBron James",
-            "points": 31.8,
-            "rebounds": 9.3,
-            "assists": 9.7
-          },
-          {
-            "name": "Stephen Curry",
-            "points": 28.1,
-            "threes": 5.8
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 55,
-        "away_win_probability": 45,
-        "predicted_score": "119-119",
-        "confidence": 79,
-        "betting_recommendations": {}
-      },
-      "status": "Simulated Data"
-    },
-    {
-      "id": "nba5",
-      "home": "Denver Nuggets",
-      "away": "Los Angeles Clippers",
-      "time": "22:30",
-      "date": "2025-12-12",
-      "odds": {
-        "moneyline": {
-          "home": -230,
-          "away": 122
-        },
-        "spread": {
-          "home": -4.5,
-          "away": 4.5
-        },
-        "total": 233.5
-      },
-      "player_props": {
-        "stars": [
-          {
-            "name": "LeBron James",
-            "points": 24.3,
+            "team": "Lakers",
+            "points": 28.0,
             "rebounds": 9.4,
-            "assists": 9.2
+            "assists": 7.4,
+            "threes": 2.4
           },
           {
             "name": "Stephen Curry",
-            "points": 31.0,
-            "threes": 6.4
+            "team": "Warriors",
+            "points": 27.6,
+            "threes": 6.2,
+            "assists": 6.4
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 54,
+        "away_win_probability": 46,
+        "predicted_score": "115-108",
+        "confidence": 85,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T20:37:40.720291"
+      },
+      "data_source": "SportsData.io API"
+    },
+    {
+      "id": "nba19597",
+      "home": "NY",
+      "away": "BOS",
+      "time": "19:00",
+      "date": "2023-10-25",
+      "status": "Final",
+      "odds": {
+        "moneyline": {
+          "home": -143,
+          "away": 393
+        },
+        "spread": {
+          "home": -9.1,
+          "away": 9.1
+        },
+        "total": 225.5,
+        "last_update": "20:37:40"
+      },
+      "player_props": {
+        "players": [
+          {
+            "name": "LeBron James",
+            "team": "Lakers",
+            "points": 30.6,
+            "rebounds": 9.4,
+            "assists": 7.2,
+            "threes": 2.9
+          },
+          {
+            "name": "Stephen Curry",
+            "team": "Warriors",
+            "points": 28.3,
+            "threes": 6.3,
+            "assists": 7.9
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 51,
+        "away_win_probability": 49,
+        "predicted_score": "126-122",
+        "confidence": 83,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T20:37:40.720355"
+      },
+      "data_source": "SportsData.io API"
+    },
+    {
+      "id": "nba19598",
+      "home": "ORL",
+      "away": "HOU",
+      "time": "19:00",
+      "date": "2023-10-25",
+      "status": "Final",
+      "odds": {
+        "moneyline": {
+          "home": 416,
+          "away": -285
+        },
+        "spread": {
+          "home": 3.5,
+          "away": -3.5
+        },
+        "total": 216.3,
+        "last_update": "20:37:40"
+      },
+      "player_props": {
+        "players": [
+          {
+            "name": "LeBron James",
+            "team": "Lakers",
+            "points": 31.4,
+            "rebounds": 8.5,
+            "assists": 7.1,
+            "threes": 2.9
+          },
+          {
+            "name": "Stephen Curry",
+            "team": "Warriors",
+            "points": 27.9,
+            "threes": 5.0,
+            "assists": 6.0
           }
         ]
       },
       "ai_analysis": {
         "home_win_probability": 70,
         "away_win_probability": 30,
-        "predicted_score": "116-120",
-        "confidence": 84,
+        "predicted_score": "129-104",
+        "confidence": 79,
         "betting_recommendations": {
           "moneyline": {
-            "pick": "Denver Nuggets ML",
+            "pick": "ORL ML",
             "confidence": 75,
-            "value": 8.2
+            "value": 7.2
           }
-        }
+        },
+        "generated_at": "2025-12-07T20:37:40.720424"
       },
-      "status": "Simulated Data"
+      "data_source": "SportsData.io API"
     }
   ],
   "nhl": [
     {
-      "id": "nhl1",
-      "home": "Chicago Blackhawks",
-      "away": "Pittsburgh Penguins",
-      "time": "17:00",
-      "date": "2025-12-09",
+      "id": "nhl20622",
+      "home": "TB",
+      "away": "NAS",
+      "time": "17:30",
+      "date": "2023-10-10",
+      "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -250,
-          "away": 351
+          "home": -235,
+          "away": 300
         },
         "puck_line": {
-          "home": -1.3,
-          "away": 1.3
+          "home": -3.2,
+          "away": 3.2
         },
-        "total": 6.9
+        "total": 6.6,
+        "last_update": "20:37:41"
       },
       "player_props": {
         "players": [
           {
             "name": "Connor McDavid",
-            "points": 1.2,
-            "goals": 0.7
+            "team": "Oilers",
+            "points": 1.8,
+            "goals": 0.5,
+            "assists": 0.7
           },
           {
             "name": "Auston Matthews",
-            "goals": 0.8
+            "team": "Maple Leafs",
+            "goals": 0.8,
+            "shots": 5.3
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 75,
-        "away_win_probability": 25,
-        "predicted_score": "3-2",
-        "confidence": 80,
+        "home_win_probability": 68,
+        "away_win_probability": 32,
+        "predicted_score": "4-1",
+        "confidence": 87,
         "betting_recommendations": {
           "moneyline": {
-            "pick": "Chicago Blackhawks ML",
-            "confidence": 80,
-            "value": 8.4
+            "pick": "TB ML",
+            "confidence": 73,
+            "value": 7.1
           }
-        }
+        },
+        "generated_at": "2025-12-07T20:37:41.757916"
       },
-      "status": "Simulated Data"
+      "data_source": "SportsData.io API"
     },
     {
-      "id": "nhl2",
-      "home": "Toronto Maple Leafs",
-      "away": "New York Rangers",
-      "time": "17:00",
-      "date": "2025-12-09",
-      "odds": {
-        "moneyline": {
-          "home": -259,
-          "away": 256
-        },
-        "puck_line": {
-          "home": -1.0,
-          "away": 1.0
-        },
-        "total": 6.6
-      },
-      "player_props": {
-        "players": [
-          {
-            "name": "Connor McDavid",
-            "points": 1.6,
-            "goals": 0.7
-          },
-          {
-            "name": "Auston Matthews",
-            "goals": 0.6
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 53,
-        "away_win_probability": 47,
-        "predicted_score": "3-3",
-        "confidence": 79,
-        "betting_recommendations": {}
-      },
-      "status": "Simulated Data"
-    },
-    {
-      "id": "nhl3",
-      "home": "Toronto Maple Leafs",
-      "away": "Washington Capitals",
-      "time": "17:00",
-      "date": "2025-12-10",
-      "odds": {
-        "moneyline": {
-          "home": 192,
-          "away": -256
-        },
-        "puck_line": {
-          "home": 1.7,
-          "away": -1.7
-        },
-        "total": 5.5
-      },
-      "player_props": {
-        "players": [
-          {
-            "name": "Connor McDavid",
-            "points": 1.5,
-            "goals": 0.5
-          },
-          {
-            "name": "Auston Matthews",
-            "goals": 0.9
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 60,
-        "away_win_probability": 40,
-        "predicted_score": "5-3",
-        "confidence": 88,
-        "betting_recommendations": {}
-      },
-      "status": "Simulated Data"
-    },
-    {
-      "id": "nhl4",
-      "home": "Detroit Red Wings",
-      "away": "Washington Capitals",
-      "time": "19:00",
-      "date": "2025-12-09",
-      "odds": {
-        "moneyline": {
-          "home": -144,
-          "away": 354
-        },
-        "puck_line": {
-          "home": -4.2,
-          "away": 4.2
-        },
-        "total": 6.3
-      },
-      "player_props": {
-        "players": [
-          {
-            "name": "Connor McDavid",
-            "points": 1.9,
-            "goals": 0.4
-          },
-          {
-            "name": "Auston Matthews",
-            "goals": 0.9
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 58,
-        "away_win_probability": 42,
-        "predicted_score": "2-1",
-        "confidence": 80,
-        "betting_recommendations": {}
-      },
-      "status": "Simulated Data"
-    },
-    {
-      "id": "nhl5",
-      "home": "Vancouver Canucks",
-      "away": "Edmonton Oilers",
+      "id": "nhl20623",
+      "home": "PIT",
+      "away": "CHI",
       "time": "20:00",
-      "date": "2025-12-08",
+      "date": "2023-10-10",
+      "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -264,
-          "away": 446
+          "home": 226,
+          "away": -254
         },
         "puck_line": {
-          "home": -3.0,
-          "away": 3.0
+          "home": 1.0,
+          "away": -1.0
         },
-        "total": 6.9
+        "total": 5.9,
+        "last_update": "20:37:41"
       },
       "player_props": {
         "players": [
           {
             "name": "Connor McDavid",
-            "points": 1.2,
-            "goals": 0.4
+            "team": "Oilers",
+            "points": 1.6,
+            "goals": 0.3,
+            "assists": 1.0
           },
           {
             "name": "Auston Matthews",
-            "goals": 0.6
+            "team": "Maple Leafs",
+            "goals": 0.6,
+            "shots": 4.1
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 77,
-        "away_win_probability": 23,
-        "predicted_score": "2-1",
-        "confidence": 76,
+        "home_win_probability": 74,
+        "away_win_probability": 26,
+        "predicted_score": "4-4",
+        "confidence": 90,
         "betting_recommendations": {
           "moneyline": {
-            "pick": "Vancouver Canucks ML",
-            "confidence": 82,
+            "pick": "PIT ML",
+            "confidence": 79,
             "value": 8.3
           }
-        }
+        },
+        "generated_at": "2025-12-07T20:37:41.757955"
       },
-      "status": "Simulated Data"
+      "data_source": "SportsData.io API"
+    },
+    {
+      "id": "nhl20624",
+      "home": "VEG",
+      "away": "SEA",
+      "time": "22:30",
+      "date": "2023-10-10",
+      "status": "Final",
+      "odds": {
+        "moneyline": {
+          "home": -201,
+          "away": 124
+        },
+        "puck_line": {
+          "home": -3.4,
+          "away": 3.4
+        },
+        "total": 5.5,
+        "last_update": "20:37:41"
+      },
+      "player_props": {
+        "players": [
+          {
+            "name": "Connor McDavid",
+            "team": "Oilers",
+            "points": 1.9,
+            "goals": 0.5,
+            "assists": 1.3
+          },
+          {
+            "name": "Auston Matthews",
+            "team": "Maple Leafs",
+            "goals": 0.8,
+            "shots": 4.6
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 61,
+        "away_win_probability": 39,
+        "predicted_score": "5-2",
+        "confidence": 90,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "VEG ML",
+            "confidence": 66,
+            "value": 7.1
+          }
+        },
+        "generated_at": "2025-12-07T20:37:41.757980"
+      },
+      "data_source": "SportsData.io API"
+    },
+    {
+      "id": "nhl20625",
+      "home": "CAR",
+      "away": "OTT",
+      "time": "19:00",
+      "date": "2023-10-11",
+      "status": "Final",
+      "odds": {
+        "moneyline": {
+          "home": -172,
+          "away": 401
+        },
+        "puck_line": {
+          "home": -2.8,
+          "away": 2.8
+        },
+        "total": 5.6,
+        "last_update": "20:37:41"
+      },
+      "player_props": {
+        "players": [
+          {
+            "name": "Connor McDavid",
+            "team": "Oilers",
+            "points": 1.8,
+            "goals": 0.4,
+            "assists": 0.7
+          },
+          {
+            "name": "Auston Matthews",
+            "team": "Maple Leafs",
+            "goals": 0.6,
+            "shots": 3.7
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 50,
+        "away_win_probability": 50,
+        "predicted_score": "4-2",
+        "confidence": 90,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T20:37:41.758006"
+      },
+      "data_source": "SportsData.io API"
+    },
+    {
+      "id": "nhl20626",
+      "home": "TOR",
+      "away": "MON",
+      "time": "19:00",
+      "date": "2023-10-11",
+      "status": "F/SO",
+      "odds": {
+        "moneyline": {
+          "home": -129,
+          "away": 247
+        },
+        "puck_line": {
+          "home": -2.1,
+          "away": 2.1
+        },
+        "total": 6.6,
+        "last_update": "20:37:41"
+      },
+      "player_props": {
+        "players": [
+          {
+            "name": "Connor McDavid",
+            "team": "Oilers",
+            "points": 1.3,
+            "goals": 0.4,
+            "assists": 0.9
+          },
+          {
+            "name": "Auston Matthews",
+            "team": "Maple Leafs",
+            "goals": 0.8,
+            "shots": 4.5
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 55,
+        "away_win_probability": 45,
+        "predicted_score": "5-4",
+        "confidence": 85,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T20:37:41.758027"
+      },
+      "data_source": "SportsData.io API"
+    },
+    {
+      "id": "nhl20627",
+      "home": "BOS",
+      "away": "CHI",
+      "time": "19:30",
+      "date": "2023-10-11",
+      "status": "Final",
+      "odds": {
+        "moneyline": {
+          "home": -133,
+          "away": 336
+        },
+        "puck_line": {
+          "home": -4.4,
+          "away": 4.4
+        },
+        "total": 5.8,
+        "last_update": "20:37:41"
+      },
+      "player_props": {
+        "players": [
+          {
+            "name": "Connor McDavid",
+            "team": "Oilers",
+            "points": 1.7,
+            "goals": 0.5,
+            "assists": 1.0
+          },
+          {
+            "name": "Auston Matthews",
+            "team": "Maple Leafs",
+            "goals": 0.6,
+            "shots": 4.9
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 52,
+        "away_win_probability": 48,
+        "predicted_score": "3-3",
+        "confidence": 80,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T20:37:41.758052"
+      },
+      "data_source": "SportsData.io API"
     }
   ],
   "mlb": [
     {
-      "id": "mlb1",
-      "home": "Boston Red Sox",
-      "away": "Philadelphia Phillies",
-      "time": "16:10",
-      "date": "2025-12-10",
+      "id": "mlb73692",
+      "home": "SD",
+      "away": "LAD",
+      "time": "06:05",
+      "date": "2024-03-20",
+      "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -196,
-          "away": 273
+          "home": -193,
+          "away": 275
         },
         "run_line": {
-          "home": -2.3,
-          "away": 2.3
+          "home": -1.2,
+          "away": 1.2
         },
-        "total": 7.9
+        "total": 9.3,
+        "last_update": "20:37:44"
       },
       "player_props": {
         "batters": [
           {
             "name": "Aaron Judge",
-            "hits": 2.0,
-            "home_runs": 0.5
+            "team": "Yankees",
+            "hits": 1.5,
+            "home_runs": 0.4,
+            "rbis": 2.4
           },
           {
             "name": "Shohei Ohtani",
-            "hits": 1.4,
-            "strikeouts": 8.6
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 64,
-        "away_win_probability": 36,
-        "predicted_score": "8-4",
-        "confidence": 88,
-        "betting_recommendations": {
-          "moneyline": {
-            "pick": "Boston Red Sox ML",
-            "confidence": 69,
-            "value": 7.2
-          }
-        }
-      },
-      "status": "Simulated Data"
-    },
-    {
-      "id": "mlb2",
-      "home": "Boston Red Sox",
-      "away": "Texas Rangers",
-      "time": "16:10",
-      "date": "2025-12-13",
-      "odds": {
-        "moneyline": {
-          "home": -134,
-          "away": 118
-        },
-        "run_line": {
-          "home": -3.1,
-          "away": 3.1
-        },
-        "total": 7.9
-      },
-      "player_props": {
-        "batters": [
-          {
-            "name": "Aaron Judge",
-            "hits": 1.8,
-            "home_runs": 0.5
-          },
-          {
-            "name": "Shohei Ohtani",
-            "hits": 1.3,
-            "strikeouts": 7.2
+            "team": "Dodgers",
+            "hits": 1.7,
+            "strikeouts": 6.2,
+            "home_runs": 0.4
           }
         ]
       },
       "ai_analysis": {
         "home_win_probability": 53,
         "away_win_probability": 47,
-        "predicted_score": "3-4",
-        "confidence": 76,
-        "betting_recommendations": {}
+        "predicted_score": "4-2",
+        "confidence": 84,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T20:37:44.615425"
       },
-      "status": "Simulated Data"
+      "data_source": "SportsData.io API"
     },
     {
-      "id": "mlb3",
-      "home": "Boston Red Sox",
-      "away": "Philadelphia Phillies",
-      "time": "16:10",
-      "date": "2025-12-07",
+      "id": "mlb73694",
+      "home": "LAD",
+      "away": "SD",
+      "time": "06:05",
+      "date": "2024-03-21",
+      "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -166,
-          "away": 324
+          "home": -220,
+          "away": 225
         },
         "run_line": {
-          "home": -1.8,
-          "away": 1.8
+          "home": -2.2,
+          "away": 2.2
         },
-        "total": 8.7
+        "total": 9.5,
+        "last_update": "20:37:44"
       },
       "player_props": {
         "batters": [
           {
             "name": "Aaron Judge",
-            "hits": 1.4,
+            "team": "Yankees",
+            "hits": 1.5,
+            "home_runs": 0.3,
+            "rbis": 1.6
+          },
+          {
+            "name": "Shohei Ohtani",
+            "team": "Dodgers",
+            "hits": 1.0,
+            "strikeouts": 8.9,
             "home_runs": 0.3
-          },
-          {
-            "name": "Shohei Ohtani",
-            "hits": 1.1,
-            "strikeouts": 7.0
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 67,
-        "away_win_probability": 33,
-        "predicted_score": "5-3",
-        "confidence": 76,
-        "betting_recommendations": {
-          "moneyline": {
-            "pick": "Boston Red Sox ML",
-            "confidence": 72,
-            "value": 8.5
-          }
-        }
-      },
-      "status": "Simulated Data"
-    },
-    {
-      "id": "mlb4",
-      "home": "Los Angeles Dodgers",
-      "away": "St. Louis Cardinals",
-      "time": "20:10",
-      "date": "2025-12-08",
-      "odds": {
-        "moneyline": {
-          "home": -158,
-          "away": 255
-        },
-        "run_line": {
-          "home": -1.3,
-          "away": 1.3
-        },
-        "total": 9.5
-      },
-      "player_props": {
-        "batters": [
-          {
-            "name": "Aaron Judge",
-            "hits": 1.8,
-            "home_runs": 0.5
-          },
-          {
-            "name": "Shohei Ohtani",
-            "hits": 1.6,
-            "strikeouts": 7.8
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 47,
-        "away_win_probability": 53,
-        "predicted_score": "7-7",
-        "confidence": 82,
-        "betting_recommendations": {}
-      },
-      "status": "Simulated Data"
-    },
-    {
-      "id": "mlb5",
-      "home": "Los Angeles Dodgers",
-      "away": "Philadelphia Phillies",
-      "time": "19:10",
-      "date": "2025-12-09",
-      "odds": {
-        "moneyline": {
-          "home": -148,
-          "away": 252
-        },
-        "run_line": {
-          "home": -2.9,
-          "away": 2.9
-        },
-        "total": 10.9
-      },
-      "player_props": {
-        "batters": [
-          {
-            "name": "Aaron Judge",
-            "hits": 1.4,
-            "home_runs": 0.3
-          },
-          {
-            "name": "Shohei Ohtani",
-            "hits": 1.4,
-            "strikeouts": 6.2
-          }
-        ]
-      },
-      "ai_analysis": {
-        "home_win_probability": 62,
-        "away_win_probability": 38,
-        "predicted_score": "5-5",
+        "home_win_probability": 46,
+        "away_win_probability": 54,
+        "predicted_score": "3-6",
         "confidence": 80,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T20:37:44.615462"
+      },
+      "data_source": "SportsData.io API"
+    },
+    {
+      "id": "mlb70726",
+      "home": "NYM",
+      "away": "MIL",
+      "time": "13:10",
+      "date": "2024-03-28",
+      "status": "Postponed",
+      "odds": {
+        "moneyline": {
+          "home": -122,
+          "away": 319
+        },
+        "run_line": {
+          "home": -2.5,
+          "away": 2.5
+        },
+        "total": 9.2,
+        "last_update": "20:37:44"
+      },
+      "player_props": {
+        "batters": [
+          {
+            "name": "Aaron Judge",
+            "team": "Yankees",
+            "hits": 1.9,
+            "home_runs": 0.3,
+            "rbis": 1.4
+          },
+          {
+            "name": "Shohei Ohtani",
+            "team": "Dodgers",
+            "hits": 1.2,
+            "strikeouts": 7.9,
+            "home_runs": 0.3
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 74,
+        "away_win_probability": 26,
+        "predicted_score": "6-2",
+        "confidence": 91,
         "betting_recommendations": {
           "moneyline": {
-            "pick": "Los Angeles Dodgers ML",
-            "confidence": 67,
-            "value": 8.7
+            "pick": "NYM ML",
+            "confidence": 79,
+            "value": 7.2
           }
-        }
+        },
+        "generated_at": "2025-12-07T20:37:44.615489"
       },
-      "status": "Simulated Data"
+      "data_source": "SportsData.io API"
+    },
+    {
+      "id": "mlb70719",
+      "home": "BAL",
+      "away": "LAA",
+      "time": "15:05",
+      "date": "2024-03-28",
+      "status": "Final",
+      "odds": {
+        "moneyline": {
+          "home": -188,
+          "away": 168
+        },
+        "run_line": {
+          "home": -3.4,
+          "away": 3.4
+        },
+        "total": 7.7,
+        "last_update": "20:37:44"
+      },
+      "player_props": {
+        "batters": [
+          {
+            "name": "Aaron Judge",
+            "team": "Yankees",
+            "hits": 1.9,
+            "home_runs": 0.3,
+            "rbis": 1.1
+          },
+          {
+            "name": "Shohei Ohtani",
+            "team": "Dodgers",
+            "hits": 1.3,
+            "strikeouts": 7.8,
+            "home_runs": 0.1
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 76,
+        "away_win_probability": 24,
+        "predicted_score": "4-6",
+        "confidence": 83,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "BAL ML",
+            "confidence": 81,
+            "value": 8.1
+          }
+        },
+        "generated_at": "2025-12-07T20:37:44.615510"
+      },
+      "data_source": "SportsData.io API"
+    },
+    {
+      "id": "mlb70720",
+      "home": "PHI",
+      "away": "ATL",
+      "time": "15:05",
+      "date": "2024-03-28",
+      "status": "Postponed",
+      "odds": {
+        "moneyline": {
+          "home": -184,
+          "away": 223
+        },
+        "run_line": {
+          "home": -2.5,
+          "away": 2.5
+        },
+        "total": 10.4,
+        "last_update": "20:37:44"
+      },
+      "player_props": {
+        "batters": [
+          {
+            "name": "Aaron Judge",
+            "team": "Yankees",
+            "hits": 1.3,
+            "home_runs": 0.4,
+            "rbis": 1.1
+          },
+          {
+            "name": "Shohei Ohtani",
+            "team": "Dodgers",
+            "hits": 1.7,
+            "strikeouts": 8.0,
+            "home_runs": 0.1
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 61,
+        "away_win_probability": 39,
+        "predicted_score": "3-5",
+        "confidence": 92,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "PHI ML",
+            "confidence": 66,
+            "value": 7.7
+          }
+        },
+        "generated_at": "2025-12-07T20:37:44.615531"
+      },
+      "data_source": "SportsData.io API"
+    },
+    {
+      "id": "mlb70725",
+      "home": "CHW",
+      "away": "DET",
+      "time": "16:10",
+      "date": "2024-03-28",
+      "status": "Final",
+      "odds": {
+        "moneyline": {
+          "home": -181,
+          "away": 277
+        },
+        "run_line": {
+          "home": -3.0,
+          "away": 3.0
+        },
+        "total": 7.9,
+        "last_update": "20:37:44"
+      },
+      "player_props": {
+        "batters": [
+          {
+            "name": "Aaron Judge",
+            "team": "Yankees",
+            "hits": 1.6,
+            "home_runs": 0.2,
+            "rbis": 1.8
+          },
+          {
+            "name": "Shohei Ohtani",
+            "team": "Dodgers",
+            "hits": 1.5,
+            "strikeouts": 7.4,
+            "home_runs": 0.3
+          }
+        ]
+      },
+      "ai_analysis": {
+        "home_win_probability": 79,
+        "away_win_probability": 21,
+        "predicted_score": "3-6",
+        "confidence": 75,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "CHW ML",
+            "confidence": 84,
+            "value": 7.7
+          }
+        },
+        "generated_at": "2025-12-07T20:37:44.615552"
+      },
+      "data_source": "SportsData.io API"
     }
   ],
   "ufc": [
@@ -896,132 +1759,138 @@
       "fighter1": "Islam Makhachev",
       "fighter2": "Dustin Poirier",
       "time": "22:00",
-      "date": "2025-12-19",
-      "weight_class": "Lightweight",
+      "date": "2026-01-06",
+      "weight_class": "Middleweight",
       "odds": {
         "moneyline": {
-          "fighter1": -202,
-          "fighter2": 234
+          "fighter1": -204,
+          "fighter2": 344
         },
         "method": {
           "ko_tko": {
-            "fighter1": "+350",
-            "fighter2": "+400"
+            "fighter1": "+339",
+            "fighter2": "+389"
           },
           "submission": {
-            "fighter1": "+461",
-            "fighter2": "+511"
+            "fighter1": "+457",
+            "fighter2": "+507"
           },
           "decision": {
-            "fighter1": "+366",
-            "fighter2": "+416"
+            "fighter1": "+272",
+            "fighter2": "+322"
           }
-        }
+        },
+        "last_update": "20:37:44"
       },
       "ai_analysis": {
         "predicted_winner": "Dustin Poirier",
         "win_probability": {
-          "fighter1": 21,
-          "fighter2": 79
+          "fighter1": 26,
+          "fighter2": 74
         },
         "method_probabilities": {
-          "ko_tko": 60.0,
-          "submission": 14.7,
-          "decision": 25.3
+          "ko_tko": 35.9,
+          "submission": 29.1,
+          "decision": 35.0
         },
-        "confidence": 78
+        "confidence": 86,
+        "generated_at": "2025-12-07T20:37:44.617104"
       },
-      "status": "Simulated Data"
+      "data_source": "Simulated Data"
     },
     {
       "id": "ufc2",
       "fighter1": "Jon Jones",
       "fighter2": "Stipe Miocic",
       "time": "22:00",
-      "date": "2025-12-31",
-      "weight_class": "Heavyweight",
+      "date": "2025-12-26",
+      "weight_class": "Lightweight",
       "odds": {
         "moneyline": {
-          "fighter1": 382,
-          "fighter2": -212
+          "fighter1": 318,
+          "fighter2": -190
         },
         "method": {
           "ko_tko": {
-            "fighter1": "+385",
-            "fighter2": "+435"
+            "fighter1": "+380",
+            "fighter2": "+430"
           },
           "submission": {
-            "fighter1": "+461",
-            "fighter2": "+511"
+            "fighter1": "+313",
+            "fighter2": "+363"
           },
           "decision": {
-            "fighter1": "+224",
-            "fighter2": "+274"
+            "fighter1": "+278",
+            "fighter2": "+328"
           }
-        }
+        },
+        "last_update": "20:37:44"
       },
       "ai_analysis": {
-        "predicted_winner": "Jon Jones",
+        "predicted_winner": "Stipe Miocic",
         "win_probability": {
-          "fighter1": 59,
-          "fighter2": 41
+          "fighter1": 31,
+          "fighter2": 69
         },
         "method_probabilities": {
-          "ko_tko": 53.3,
-          "submission": 17.1,
-          "decision": 29.5
+          "ko_tko": 47.0,
+          "submission": 26.5,
+          "decision": 26.5
         },
-        "confidence": 85
+        "confidence": 81,
+        "generated_at": "2025-12-07T20:37:44.617180"
       },
-      "status": "Simulated Data"
+      "data_source": "Simulated Data"
     },
     {
       "id": "ufc3",
       "fighter1": "Alex Pereira",
       "fighter2": "Jiri Prochazka",
       "time": "22:00",
-      "date": "2026-01-05",
+      "date": "2026-01-01",
       "weight_class": "Lightweight",
       "odds": {
         "moneyline": {
-          "fighter1": 243,
-          "fighter2": -182
+          "fighter1": -152,
+          "fighter2": 268
         },
         "method": {
           "ko_tko": {
-            "fighter1": "+385",
-            "fighter2": "+435"
+            "fighter1": "+252",
+            "fighter2": "+302"
           },
           "submission": {
-            "fighter1": "+356",
-            "fighter2": "+406"
+            "fighter1": "+287",
+            "fighter2": "+337"
           },
           "decision": {
-            "fighter1": "+427",
-            "fighter2": "+477"
+            "fighter1": "+248",
+            "fighter2": "+298"
           }
-        }
+        },
+        "last_update": "20:37:44"
       },
       "ai_analysis": {
         "predicted_winner": "Jiri Prochazka",
         "win_probability": {
-          "fighter1": 41,
-          "fighter2": 59
+          "fighter1": 43,
+          "fighter2": 57
         },
         "method_probabilities": {
-          "ko_tko": 43.1,
-          "submission": 27.5,
-          "decision": 29.4
+          "ko_tko": 37.2,
+          "submission": 32.6,
+          "decision": 30.2
         },
-        "confidence": 80
+        "confidence": 76,
+        "generated_at": "2025-12-07T20:37:44.617193"
       },
-      "status": "Simulated Data"
+      "data_source": "Simulated Data"
     }
   ],
   "_metadata": {
-    "generated_at": "2025-12-07T20:24:07.308921",
-    "version": "4.0.0",
-    "total_games": 23,
+    "generated_at": "2025-12-07T20:37:44.617639",
+    "version": "6.0.0",
+    "total_games": 27,
     "sports": [
       "nfl",
       "nba",
@@ -1030,6 +1899,7 @@
       "ufc"
     ],
     "update_frequency": "15 minutes",
-    "data_source": "SportsData.io API + Simulated Data"
+    "next_update": "2025-12-07T20:52:44.617643",
+    "api_status": "Active"
   }
 }
