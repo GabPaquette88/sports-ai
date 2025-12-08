@@ -10,56 +10,56 @@
       "stadium": "Unknown Stadium",
       "odds": {
         "moneyline": {
-          "home": -188,
-          "away": 321
+          "home": -130,
+          "away": 199
         },
         "spread": {
-          "home": -9.0,
-          "away": 9.0
+          "home": -7.3,
+          "away": 7.3
         },
-        "total": 44.2,
-        "last_update": "21:07:49"
+        "total": 41.7,
+        "last_update": "23:03:47"
       },
       "player_props": {
         "quarterbacks": [
           {
             "name": "Patrick Mahomes",
             "team": "Chiefs",
-            "passing_yards": 296.5,
-            "passing_tds": 2.3,
-            "interceptions": 0.7
+            "passing_yards": 259.4,
+            "passing_tds": 2.2,
+            "interceptions": 0.3
           },
           {
             "name": "Josh Allen",
             "team": "Bills",
-            "passing_yards": 258.9,
-            "passing_tds": 1.6,
-            "rushing_yards": 38.1
+            "passing_yards": 242.3,
+            "passing_tds": 1.7,
+            "rushing_yards": 43.6
           }
         ],
         "running_backs": [
           {
             "name": "Christian McCaffrey",
             "team": "49ers",
-            "rushing_yards": 110.7,
-            "receiving_yards": 21.4,
+            "rushing_yards": 86.1,
+            "receiving_yards": 47.9,
             "anytime_td": true
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 77,
-        "away_win_probability": 23,
-        "predicted_score": "36-17",
-        "confidence": 88,
+        "home_win_probability": 68,
+        "away_win_probability": 32,
+        "predicted_score": "24-34",
+        "confidence": 84,
         "betting_recommendations": {
           "moneyline": {
             "pick": "SF ML",
-            "confidence": 82,
-            "value": 8.7
+            "confidence": 73,
+            "value": 8.6
           }
         },
-        "generated_at": "2025-12-07T21:07:49.899141"
+        "generated_at": "2025-12-07T23:03:47.295558"
       },
       "data_source": "SportsData.io API",
       "api_data": {
@@ -153,50 +153,50 @@
       "stadium": "Unknown Stadium",
       "odds": {
         "moneyline": {
-          "home": -245,
-          "away": 215
+          "home": -169,
+          "away": 154
         },
         "spread": {
-          "home": -3.1,
-          "away": 3.1
+          "home": -1.8,
+          "away": 1.8
         },
-        "total": 36.2,
-        "last_update": "21:07:49"
+        "total": 54.4,
+        "last_update": "23:03:47"
       },
       "player_props": {
         "quarterbacks": [
           {
             "name": "Patrick Mahomes",
             "team": "Chiefs",
-            "passing_yards": 269.9,
-            "passing_tds": 3.2,
-            "interceptions": 0.9
+            "passing_yards": 297.7,
+            "passing_tds": 3.4,
+            "interceptions": 0.3
           },
           {
             "name": "Josh Allen",
             "team": "Bills",
-            "passing_yards": 246.6,
+            "passing_yards": 252.4,
             "passing_tds": 2.8,
-            "rushing_yards": 54.2
+            "rushing_yards": 61.2
           }
         ],
         "running_backs": [
           {
             "name": "Christian McCaffrey",
             "team": "49ers",
-            "rushing_yards": 104.2,
-            "receiving_yards": 47.1,
-            "anytime_td": false
+            "rushing_yards": 88.6,
+            "receiving_yards": 38.3,
+            "anytime_td": true
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 49,
-        "away_win_probability": 51,
-        "predicted_score": "21-16",
-        "confidence": 77,
+        "home_win_probability": 52,
+        "away_win_probability": 48,
+        "predicted_score": "36-15",
+        "confidence": 88,
         "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:49.899231"
+        "generated_at": "2025-12-07T23:03:47.295656"
       },
       "data_source": "SportsData.io API",
       "api_data": {
@@ -290,50 +290,56 @@
       "stadium": "Unknown Stadium",
       "odds": {
         "moneyline": {
-          "home": -128,
-          "away": 144
+          "home": -167,
+          "away": 305
         },
         "spread": {
-          "home": -9.0,
-          "away": 9.0
+          "home": -5.8,
+          "away": 5.8
         },
-        "total": 51.1,
-        "last_update": "21:07:49"
+        "total": 39.5,
+        "last_update": "23:03:47"
       },
       "player_props": {
         "quarterbacks": [
           {
             "name": "Patrick Mahomes",
             "team": "Chiefs",
-            "passing_yards": 261.5,
-            "passing_tds": 2.3,
-            "interceptions": 1.2
+            "passing_yards": 300.3,
+            "passing_tds": 3.5,
+            "interceptions": 1.1
           },
           {
             "name": "Josh Allen",
             "team": "Bills",
-            "passing_yards": 277.1,
-            "passing_tds": 2.3,
-            "rushing_yards": 49.9
+            "passing_yards": 301.5,
+            "passing_tds": 2.9,
+            "rushing_yards": 50.7
           }
         ],
         "running_backs": [
           {
             "name": "Christian McCaffrey",
             "team": "49ers",
-            "rushing_yards": 110.0,
-            "receiving_yards": 31.7,
-            "anytime_td": false
+            "rushing_yards": 102.6,
+            "receiving_yards": 57.1,
+            "anytime_td": true
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 51,
-        "away_win_probability": 49,
-        "predicted_score": "22-31",
-        "confidence": 90,
-        "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:49.899301"
+        "home_win_probability": 61,
+        "away_win_probability": 39,
+        "predicted_score": "20-35",
+        "confidence": 91,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "CLE ML",
+            "confidence": 66,
+            "value": 7.8
+          }
+        },
+        "generated_at": "2025-12-07T23:03:47.295731"
       },
       "data_source": "SportsData.io API",
       "api_data": {
@@ -427,50 +433,56 @@
       "stadium": "Unknown Stadium",
       "odds": {
         "moneyline": {
-          "home": -145,
-          "away": 393
+          "home": -172,
+          "away": 265
         },
         "spread": {
-          "home": -1.4,
-          "away": 1.4
+          "home": -7.9,
+          "away": 7.9
         },
-        "total": 38.2,
-        "last_update": "21:07:49"
+        "total": 48.2,
+        "last_update": "23:03:47"
       },
       "player_props": {
         "quarterbacks": [
           {
             "name": "Patrick Mahomes",
             "team": "Chiefs",
-            "passing_yards": 294.0,
+            "passing_yards": 270.7,
             "passing_tds": 2.4,
-            "interceptions": 1.1
+            "interceptions": 0.2
           },
           {
             "name": "Josh Allen",
             "team": "Bills",
-            "passing_yards": 283.8,
-            "passing_tds": 1.7,
-            "rushing_yards": 30.0
+            "passing_yards": 303.8,
+            "passing_tds": 1.6,
+            "rushing_yards": 48.9
           }
         ],
         "running_backs": [
           {
             "name": "Christian McCaffrey",
             "team": "49ers",
-            "rushing_yards": 96.0,
-            "receiving_yards": 58.4,
-            "anytime_td": true
+            "rushing_yards": 116.3,
+            "receiving_yards": 40.7,
+            "anytime_td": false
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 48,
-        "away_win_probability": 52,
-        "predicted_score": "21-20",
-        "confidence": 75,
-        "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:49.899365"
+        "home_win_probability": 70,
+        "away_win_probability": 30,
+        "predicted_score": "25-29",
+        "confidence": 80,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "TB ML",
+            "confidence": 75,
+            "value": 7.5
+          }
+        },
+        "generated_at": "2025-12-07T23:03:47.295803"
       },
       "data_source": "SportsData.io API",
       "api_data": {
@@ -564,50 +576,56 @@
       "stadium": "Unknown Stadium",
       "odds": {
         "moneyline": {
-          "home": -143,
-          "away": 144
+          "home": -127,
+          "away": 305
         },
         "spread": {
-          "home": -4.1,
-          "away": 4.1
+          "home": -7.9,
+          "away": 7.9
         },
-        "total": 45.0,
-        "last_update": "21:07:49"
+        "total": 50.7,
+        "last_update": "23:03:47"
       },
       "player_props": {
         "quarterbacks": [
           {
             "name": "Patrick Mahomes",
             "team": "Chiefs",
-            "passing_yards": 312.8,
+            "passing_yards": 318.9,
             "passing_tds": 2.6,
-            "interceptions": 0.8
+            "interceptions": 1.2
           },
           {
             "name": "Josh Allen",
             "team": "Bills",
-            "passing_yards": 259.3,
+            "passing_yards": 291.0,
             "passing_tds": 1.6,
-            "rushing_yards": 40.5
+            "rushing_yards": 54.8
           }
         ],
         "running_backs": [
           {
             "name": "Christian McCaffrey",
             "team": "49ers",
-            "rushing_yards": 103.6,
-            "receiving_yards": 34.3,
+            "rushing_yards": 105.5,
+            "receiving_yards": 20.4,
             "anytime_td": false
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 51,
-        "away_win_probability": 49,
-        "predicted_score": "26-21",
-        "confidence": 75,
-        "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:49.899507"
+        "home_win_probability": 67,
+        "away_win_probability": 33,
+        "predicted_score": "26-22",
+        "confidence": 83,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "LAC ML",
+            "confidence": 72,
+            "value": 7.8
+          }
+        },
+        "generated_at": "2025-12-07T23:03:47.295871"
       },
       "data_source": "SportsData.io API",
       "api_data": {
@@ -701,50 +719,50 @@
       "stadium": "Unknown Stadium",
       "odds": {
         "moneyline": {
-          "home": -249,
-          "away": 339
+          "home": -158,
+          "away": 313
         },
         "spread": {
-          "home": -1.4,
-          "away": 1.4
+          "home": -7.5,
+          "away": 7.5
         },
-        "total": 51.8,
-        "last_update": "21:07:49"
+        "total": 49.2,
+        "last_update": "23:03:47"
       },
       "player_props": {
         "quarterbacks": [
           {
             "name": "Patrick Mahomes",
             "team": "Chiefs",
-            "passing_yards": 291.9,
-            "passing_tds": 2.7,
-            "interceptions": 0.6
+            "passing_yards": 283.8,
+            "passing_tds": 3.2,
+            "interceptions": 0.5
           },
           {
             "name": "Josh Allen",
             "team": "Bills",
-            "passing_yards": 304.3,
-            "passing_tds": 2.9,
-            "rushing_yards": 46.8
+            "passing_yards": 298.9,
+            "passing_tds": 1.5,
+            "rushing_yards": 66.5
           }
         ],
         "running_backs": [
           {
             "name": "Christian McCaffrey",
             "team": "49ers",
-            "rushing_yards": 88.6,
-            "receiving_yards": 41.7,
+            "rushing_yards": 120.1,
+            "receiving_yards": 59.4,
             "anytime_td": true
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 41,
-        "away_win_probability": 59,
-        "predicted_score": "33-29",
-        "confidence": 84,
+        "home_win_probability": 51,
+        "away_win_probability": 49,
+        "predicted_score": "38-14",
+        "confidence": 89,
         "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:49.899573"
+        "generated_at": "2025-12-07T23:03:47.295935"
       },
       "data_source": "SportsData.io API",
       "api_data": {
@@ -839,42 +857,42 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -258,
-          "away": 272
+          "home": -146,
+          "away": 193
         },
         "spread": {
-          "home": -4.9,
-          "away": 4.9
+          "home": -7.9,
+          "away": 7.9
         },
-        "total": 240.8,
-        "last_update": "21:07:50"
+        "total": 221.2,
+        "last_update": "23:03:48"
       },
       "player_props": {
         "players": [
           {
             "name": "LeBron James",
             "team": "Lakers",
-            "points": 29.4,
-            "rebounds": 9.7,
-            "assists": 9.3,
-            "threes": 2.2
+            "points": 26.3,
+            "rebounds": 8.0,
+            "assists": 7.4,
+            "threes": 2.8
           },
           {
             "name": "Stephen Curry",
             "team": "Warriors",
-            "points": 27.8,
-            "threes": 4.5,
-            "assists": 6.0
+            "points": 31.4,
+            "threes": 6.3,
+            "assists": 6.8
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 59,
-        "away_win_probability": 41,
-        "predicted_score": "111-106",
-        "confidence": 80,
+        "home_win_probability": 51,
+        "away_win_probability": 49,
+        "predicted_score": "122-108",
+        "confidence": 85,
         "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:50.196691"
+        "generated_at": "2025-12-07T23:03:48.129791"
       },
       "data_source": "SportsData.io API"
     },
@@ -887,48 +905,48 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -270,
-          "away": 332
+          "home": -140,
+          "away": 327
         },
         "spread": {
-          "home": -9.9,
-          "away": 9.9
+          "home": -5.0,
+          "away": 5.0
         },
-        "total": 224.6,
-        "last_update": "21:07:50"
+        "total": 219.4,
+        "last_update": "23:03:48"
       },
       "player_props": {
         "players": [
           {
             "name": "LeBron James",
             "team": "Lakers",
-            "points": 26.1,
-            "rebounds": 8.6,
-            "assists": 8.9,
-            "threes": 1.9
+            "points": 27.6,
+            "rebounds": 8.8,
+            "assists": 10.0,
+            "threes": 2.3
           },
           {
             "name": "Stephen Curry",
             "team": "Warriors",
-            "points": 28.6,
-            "threes": 5.8,
-            "assists": 6.9
+            "points": 26.3,
+            "threes": 4.6,
+            "assists": 5.7
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 61,
-        "away_win_probability": 39,
-        "predicted_score": "113-119",
-        "confidence": 92,
+        "home_win_probability": 74,
+        "away_win_probability": 26,
+        "predicted_score": "122-103",
+        "confidence": 81,
         "betting_recommendations": {
           "moneyline": {
             "pick": "GS ML",
-            "confidence": 66,
-            "value": 8.6
+            "confidence": 79,
+            "value": 8.9
           }
         },
-        "generated_at": "2025-12-07T21:07:50.196775"
+        "generated_at": "2025-12-07T23:03:48.129883"
       },
       "data_source": "SportsData.io API"
     },
@@ -941,48 +959,48 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -142,
-          "away": 259
+          "home": -296,
+          "away": 152
         },
         "spread": {
-          "home": -6.1,
-          "away": 6.1
+          "home": -8.1,
+          "away": 8.1
         },
-        "total": 222.8,
-        "last_update": "21:07:50"
+        "total": 242.8,
+        "last_update": "23:03:48"
       },
       "player_props": {
         "players": [
           {
             "name": "LeBron James",
             "team": "Lakers",
-            "points": 24.0,
-            "rebounds": 8.3,
-            "assists": 9.6,
-            "threes": 1.5
+            "points": 30.8,
+            "rebounds": 10.9,
+            "assists": 9.8,
+            "threes": 2.5
           },
           {
             "name": "Stephen Curry",
             "team": "Warriors",
-            "points": 34.0,
-            "threes": 6.4,
-            "assists": 7.3
+            "points": 33.8,
+            "threes": 4.0,
+            "assists": 6.9
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 61,
-        "away_win_probability": 39,
-        "predicted_score": "129-124",
-        "confidence": 77,
+        "home_win_probability": 63,
+        "away_win_probability": 37,
+        "predicted_score": "111-123",
+        "confidence": 76,
         "betting_recommendations": {
           "moneyline": {
             "pick": "CHA ML",
-            "confidence": 66,
-            "value": 7.4
+            "confidence": 68,
+            "value": 8.5
           }
         },
-        "generated_at": "2025-12-07T21:07:50.196833"
+        "generated_at": "2025-12-07T23:03:48.129947"
       },
       "data_source": "SportsData.io API"
     },
@@ -995,42 +1013,42 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -215,
-          "away": 457
+          "home": -155,
+          "away": 376
         },
         "spread": {
-          "home": -7.9,
-          "away": 7.9
+          "home": -9.6,
+          "away": 9.6
         },
-        "total": 233.5,
-        "last_update": "21:07:50"
+        "total": 224.7,
+        "last_update": "23:03:48"
       },
       "player_props": {
         "players": [
           {
             "name": "LeBron James",
             "team": "Lakers",
-            "points": 25.4,
-            "rebounds": 10.4,
-            "assists": 8.9,
-            "threes": 3.1
+            "points": 25.6,
+            "rebounds": 7.8,
+            "assists": 7.9,
+            "threes": 2.0
           },
           {
             "name": "Stephen Curry",
             "team": "Warriors",
-            "points": 31.1,
+            "points": 30.9,
             "threes": 5.3,
-            "assists": 7.1
+            "assists": 5.5
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 59,
-        "away_win_probability": 41,
-        "predicted_score": "122-124",
-        "confidence": 92,
+        "home_win_probability": 52,
+        "away_win_probability": 48,
+        "predicted_score": "119-120",
+        "confidence": 80,
         "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:50.196885"
+        "generated_at": "2025-12-07T23:03:48.130001"
       },
       "data_source": "SportsData.io API"
     },
@@ -1043,42 +1061,42 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -280,
-          "away": 406
+          "home": -151,
+          "away": 384
         },
         "spread": {
-          "home": -7.9,
-          "away": 7.9
+          "home": -3.4,
+          "away": 3.4
         },
-        "total": 220.9,
-        "last_update": "21:07:50"
+        "total": 235.8,
+        "last_update": "23:03:48"
       },
       "player_props": {
         "players": [
           {
             "name": "LeBron James",
             "team": "Lakers",
-            "points": 24.8,
-            "rebounds": 9.7,
-            "assists": 9.3,
-            "threes": 3.0
+            "points": 26.0,
+            "rebounds": 10.6,
+            "assists": 9.2,
+            "threes": 1.7
           },
           {
             "name": "Stephen Curry",
             "team": "Warriors",
-            "points": 28.8,
-            "threes": 5.6,
-            "assists": 8.3
+            "points": 32.7,
+            "threes": 4.8,
+            "assists": 7.1
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 54,
-        "away_win_probability": 46,
-        "predicted_score": "128-105",
-        "confidence": 76,
+        "home_win_probability": 55,
+        "away_win_probability": 45,
+        "predicted_score": "120-114",
+        "confidence": 88,
         "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:50.196936"
+        "generated_at": "2025-12-07T23:03:48.130050"
       },
       "data_source": "SportsData.io API"
     },
@@ -1091,48 +1109,42 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -207,
-          "away": 338
+          "home": -240,
+          "away": 470
         },
         "spread": {
-          "home": -3.7,
-          "away": 3.7
+          "home": -5.0,
+          "away": 5.0
         },
-        "total": 236.5,
-        "last_update": "21:07:50"
+        "total": 247.8,
+        "last_update": "23:03:48"
       },
       "player_props": {
         "players": [
           {
             "name": "LeBron James",
             "team": "Lakers",
-            "points": 30.5,
-            "rebounds": 10.5,
-            "assists": 7.2,
-            "threes": 2.8
+            "points": 28.5,
+            "rebounds": 8.2,
+            "assists": 8.9,
+            "threes": 2.7
           },
           {
             "name": "Stephen Curry",
             "team": "Warriors",
-            "points": 32.9,
-            "threes": 4.7,
-            "assists": 8.2
+            "points": 30.6,
+            "threes": 6.4,
+            "assists": 7.3
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 77,
-        "away_win_probability": 23,
-        "predicted_score": "116-101",
-        "confidence": 82,
-        "betting_recommendations": {
-          "moneyline": {
-            "pick": "ORL ML",
-            "confidence": 82,
-            "value": 8.7
-          }
-        },
-        "generated_at": "2025-12-07T21:07:50.196991"
+        "home_win_probability": 45,
+        "away_win_probability": 55,
+        "predicted_score": "126-102",
+        "confidence": 91,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T23:03:48.130101"
       },
       "data_source": "SportsData.io API"
     }
@@ -1147,40 +1159,40 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -146,
-          "away": 314
+          "home": 298,
+          "away": -266
         },
         "puck_line": {
-          "home": -2.9,
-          "away": 2.9
+          "home": 2.0,
+          "away": -2.0
         },
-        "total": 5.1,
-        "last_update": "21:07:50"
+        "total": 5.4,
+        "last_update": "23:03:48"
       },
       "player_props": {
         "players": [
           {
             "name": "Connor McDavid",
             "team": "Oilers",
-            "points": 1.8,
-            "goals": 0.4,
-            "assists": 1.0
+            "points": 1.4,
+            "goals": 0.3,
+            "assists": 0.8
           },
           {
             "name": "Auston Matthews",
             "team": "Maple Leafs",
-            "goals": 0.5,
-            "shots": 4.7
+            "goals": 0.7,
+            "shots": 5.5
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 56,
-        "away_win_probability": 44,
-        "predicted_score": "3-2",
-        "confidence": 81,
+        "home_win_probability": 58,
+        "away_win_probability": 42,
+        "predicted_score": "2-4",
+        "confidence": 91,
         "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:50.497060"
+        "generated_at": "2025-12-07T23:03:48.886346"
       },
       "data_source": "SportsData.io API"
     },
@@ -1193,40 +1205,40 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": 317,
-          "away": -186
+          "home": -129,
+          "away": 177
         },
         "puck_line": {
-          "home": 2.1,
-          "away": -2.1
+          "home": -2.5,
+          "away": 2.5
         },
-        "total": 5.6,
-        "last_update": "21:07:50"
+        "total": 7.0,
+        "last_update": "23:03:48"
       },
       "player_props": {
         "players": [
           {
             "name": "Connor McDavid",
             "team": "Oilers",
-            "points": 1.5,
-            "goals": 0.7,
+            "points": 2.0,
+            "goals": 0.8,
             "assists": 1.0
           },
           {
             "name": "Auston Matthews",
             "team": "Maple Leafs",
-            "goals": 0.5,
-            "shots": 4.8
+            "goals": 0.7,
+            "shots": 4.3
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 58,
-        "away_win_probability": 42,
-        "predicted_score": "5-3",
-        "confidence": 88,
+        "home_win_probability": 55,
+        "away_win_probability": 45,
+        "predicted_score": "2-3",
+        "confidence": 85,
         "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:50.497130"
+        "generated_at": "2025-12-07T23:03:48.886386"
       },
       "data_source": "SportsData.io API"
     },
@@ -1239,46 +1251,40 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -162,
-          "away": 385
+          "home": -262,
+          "away": 433
         },
         "puck_line": {
-          "home": -2.6,
-          "away": 2.6
+          "home": -3.4,
+          "away": 3.4
         },
-        "total": 6.7,
-        "last_update": "21:07:50"
+        "total": 6.8,
+        "last_update": "23:03:48"
       },
       "player_props": {
         "players": [
           {
             "name": "Connor McDavid",
             "team": "Oilers",
-            "points": 2.0,
-            "goals": 0.8,
-            "assists": 1.3
+            "points": 1.9,
+            "goals": 0.7,
+            "assists": 1.0
           },
           {
             "name": "Auston Matthews",
             "team": "Maple Leafs",
-            "goals": 0.8,
-            "shots": 4.9
+            "goals": 0.7,
+            "shots": 3.7
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 72,
-        "away_win_probability": 28,
-        "predicted_score": "4-2",
-        "confidence": 84,
-        "betting_recommendations": {
-          "moneyline": {
-            "pick": "VEG ML",
-            "confidence": 77,
-            "value": 7.8
-          }
-        },
-        "generated_at": "2025-12-07T21:07:50.497190"
+        "home_win_probability": 54,
+        "away_win_probability": 46,
+        "predicted_score": "3-4",
+        "confidence": 91,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T23:03:48.886417"
       },
       "data_source": "SportsData.io API"
     },
@@ -1291,46 +1297,46 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -124,
-          "away": 231
+          "home": -178,
+          "away": 199
         },
         "puck_line": {
-          "home": -2.7,
-          "away": 2.7
+          "home": -3.3,
+          "away": 3.3
         },
-        "total": 5.2,
-        "last_update": "21:07:50"
+        "total": 5.8,
+        "last_update": "23:03:48"
       },
       "player_props": {
         "players": [
           {
             "name": "Connor McDavid",
             "team": "Oilers",
-            "points": 1.6,
-            "goals": 0.3,
-            "assists": 1.1
+            "points": 1.3,
+            "goals": 0.5,
+            "assists": 1.0
           },
           {
             "name": "Auston Matthews",
             "team": "Maple Leafs",
             "goals": 0.8,
-            "shots": 4.0
+            "shots": 4.6
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 80,
-        "away_win_probability": 20,
-        "predicted_score": "2-3",
-        "confidence": 91,
+        "home_win_probability": 64,
+        "away_win_probability": 36,
+        "predicted_score": "2-4",
+        "confidence": 85,
         "betting_recommendations": {
           "moneyline": {
             "pick": "CAR ML",
-            "confidence": 85,
-            "value": 8.2
+            "confidence": 69,
+            "value": 7.5
           }
         },
-        "generated_at": "2025-12-07T21:07:50.497245"
+        "generated_at": "2025-12-07T23:03:48.886445"
       },
       "data_source": "SportsData.io API"
     },
@@ -1343,40 +1349,46 @@
       "status": "F/SO",
       "odds": {
         "moneyline": {
-          "home": -147,
-          "away": 190
+          "home": -131,
+          "away": 363
         },
         "puck_line": {
-          "home": -4.5,
-          "away": 4.5
+          "home": -1.7,
+          "away": 1.7
         },
-        "total": 6.7,
-        "last_update": "21:07:50"
+        "total": 5.3,
+        "last_update": "23:03:48"
       },
       "player_props": {
         "players": [
           {
             "name": "Connor McDavid",
             "team": "Oilers",
-            "points": 2.0,
-            "goals": 0.6,
-            "assists": 0.8
+            "points": 1.9,
+            "goals": 0.7,
+            "assists": 1.3
           },
           {
             "name": "Auston Matthews",
             "team": "Maple Leafs",
-            "goals": 0.7,
-            "shots": 3.9
+            "goals": 0.5,
+            "shots": 5.0
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 41,
-        "away_win_probability": 59,
-        "predicted_score": "4-1",
-        "confidence": 78,
-        "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:50.497295"
+        "home_win_probability": 73,
+        "away_win_probability": 27,
+        "predicted_score": "3-4",
+        "confidence": 92,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "TOR ML",
+            "confidence": 78,
+            "value": 7.8
+          }
+        },
+        "generated_at": "2025-12-07T23:03:48.886471"
       },
       "data_source": "SportsData.io API"
     },
@@ -1389,46 +1401,46 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -265,
-          "away": 271
+          "home": -132,
+          "away": 337
         },
         "puck_line": {
-          "home": -1.9,
-          "away": 1.9
+          "home": -4.2,
+          "away": 4.2
         },
-        "total": 6.7,
-        "last_update": "21:07:50"
+        "total": 6.8,
+        "last_update": "23:03:48"
       },
       "player_props": {
         "players": [
           {
             "name": "Connor McDavid",
             "team": "Oilers",
-            "points": 1.8,
-            "goals": 0.5,
-            "assists": 0.9
+            "points": 1.4,
+            "goals": 0.4,
+            "assists": 0.8
           },
           {
             "name": "Auston Matthews",
             "team": "Maple Leafs",
-            "goals": 0.6,
-            "shots": 3.8
+            "goals": 0.7,
+            "shots": 3.5
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 68,
-        "away_win_probability": 32,
-        "predicted_score": "5-3",
-        "confidence": 82,
+        "home_win_probability": 66,
+        "away_win_probability": 34,
+        "predicted_score": "3-4",
+        "confidence": 88,
         "betting_recommendations": {
           "moneyline": {
             "pick": "BOS ML",
-            "confidence": 73,
+            "confidence": 71,
             "value": 8.3
           }
         },
-        "generated_at": "2025-12-07T21:07:50.497345"
+        "generated_at": "2025-12-07T23:03:48.886498"
       },
       "data_source": "SportsData.io API"
     }
@@ -1443,47 +1455,41 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -155,
-          "away": 251
+          "home": 211,
+          "away": -138
         },
         "run_line": {
-          "home": -2.3,
-          "away": 2.3
+          "home": 0.8,
+          "away": -0.8
         },
-        "total": 10.1,
-        "last_update": "21:07:50"
+        "total": 7.8,
+        "last_update": "23:03:49"
       },
       "player_props": {
         "batters": [
           {
             "name": "Aaron Judge",
             "team": "Yankees",
-            "hits": 2.0,
-            "home_runs": 0.6,
-            "rbis": 1.8
+            "hits": 1.7,
+            "home_runs": 0.5,
+            "rbis": 2.3
           },
           {
             "name": "Shohei Ohtani",
             "team": "Dodgers",
-            "hits": 1.3,
-            "strikeouts": 8.1,
-            "home_runs": 0.5
+            "hits": 1.1,
+            "strikeouts": 8.2,
+            "home_runs": 0.1
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 76,
-        "away_win_probability": 24,
-        "predicted_score": "4-4",
-        "confidence": 85,
-        "betting_recommendations": {
-          "moneyline": {
-            "pick": "SD ML",
-            "confidence": 81,
-            "value": 7.4
-          }
-        },
-        "generated_at": "2025-12-07T21:07:50.843867"
+        "home_win_probability": 45,
+        "away_win_probability": 55,
+        "predicted_score": "4-3",
+        "confidence": 87,
+        "betting_recommendations": {},
+        "generated_at": "2025-12-07T23:03:49.654022"
       },
       "data_source": "SportsData.io API"
     },
@@ -1496,41 +1502,41 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": -203,
-          "away": 254
+          "home": -133,
+          "away": 175
         },
         "run_line": {
-          "home": -1.3,
-          "away": 1.3
+          "home": -3.1,
+          "away": 3.1
         },
-        "total": 10.2,
-        "last_update": "21:07:50"
+        "total": 10.9,
+        "last_update": "23:03:49"
       },
       "player_props": {
         "batters": [
           {
             "name": "Aaron Judge",
             "team": "Yankees",
-            "hits": 1.2,
+            "hits": 1.7,
             "home_runs": 0.4,
-            "rbis": 1.7
+            "rbis": 2.2
           },
           {
             "name": "Shohei Ohtani",
             "team": "Dodgers",
-            "hits": 1.6,
-            "strikeouts": 6.8,
-            "home_runs": 0.1
+            "hits": 1.3,
+            "strikeouts": 6.6,
+            "home_runs": 0.3
           }
         ]
       },
       "ai_analysis": {
         "home_win_probability": 49,
         "away_win_probability": 51,
-        "predicted_score": "6-3",
-        "confidence": 89,
+        "predicted_score": "6-7",
+        "confidence": 86,
         "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:50.843947"
+        "generated_at": "2025-12-07T23:03:49.654088"
       },
       "data_source": "SportsData.io API"
     },
@@ -1543,47 +1549,47 @@
       "status": "Postponed",
       "odds": {
         "moneyline": {
-          "home": -151,
-          "away": 245
+          "home": -164,
+          "away": 301
         },
         "run_line": {
-          "home": -2.1,
-          "away": 2.1
+          "home": -1.8,
+          "away": 1.8
         },
-        "total": 9.8,
-        "last_update": "21:07:50"
+        "total": 10.1,
+        "last_update": "23:03:49"
       },
       "player_props": {
         "batters": [
           {
             "name": "Aaron Judge",
             "team": "Yankees",
-            "hits": 1.8,
-            "home_runs": 0.3,
-            "rbis": 1.8
+            "hits": 1.3,
+            "home_runs": 0.5,
+            "rbis": 2.4
           },
           {
             "name": "Shohei Ohtani",
             "team": "Dodgers",
-            "hits": 1.1,
-            "strikeouts": 7.9,
-            "home_runs": 0.1
+            "hits": 1.6,
+            "strikeouts": 7.7,
+            "home_runs": 0.3
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 64,
-        "away_win_probability": 36,
-        "predicted_score": "6-3",
-        "confidence": 92,
+        "home_win_probability": 72,
+        "away_win_probability": 28,
+        "predicted_score": "5-7",
+        "confidence": 88,
         "betting_recommendations": {
           "moneyline": {
             "pick": "NYM ML",
-            "confidence": 69,
-            "value": 8.0
+            "confidence": 77,
+            "value": 7.7
           }
         },
-        "generated_at": "2025-12-07T21:07:50.844008"
+        "generated_at": "2025-12-07T23:03:49.654137"
       },
       "data_source": "SportsData.io API"
     },
@@ -1596,41 +1602,47 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": 317,
-          "away": -167
+          "home": -168,
+          "away": 307
         },
         "run_line": {
-          "home": 0.9,
-          "away": -0.9
+          "home": -2.8,
+          "away": 2.8
         },
-        "total": 8.5,
-        "last_update": "21:07:50"
+        "total": 9.7,
+        "last_update": "23:03:49"
       },
       "player_props": {
         "batters": [
           {
             "name": "Aaron Judge",
             "team": "Yankees",
-            "hits": 1.8,
-            "home_runs": 0.3,
-            "rbis": 2.1
+            "hits": 2.0,
+            "home_runs": 0.5,
+            "rbis": 1.1
           },
           {
             "name": "Shohei Ohtani",
             "team": "Dodgers",
-            "hits": 1.3,
-            "strikeouts": 6.5,
+            "hits": 1.6,
+            "strikeouts": 6.4,
             "home_runs": 0.2
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 58,
-        "away_win_probability": 42,
-        "predicted_score": "8-3",
-        "confidence": 92,
-        "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:50.844062"
+        "home_win_probability": 69,
+        "away_win_probability": 31,
+        "predicted_score": "6-6",
+        "confidence": 85,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "BAL ML",
+            "confidence": 74,
+            "value": 8.4
+          }
+        },
+        "generated_at": "2025-12-07T23:03:49.654181"
       },
       "data_source": "SportsData.io API"
     },
@@ -1643,41 +1655,41 @@
       "status": "Postponed",
       "odds": {
         "moneyline": {
-          "home": -134,
-          "away": 132
+          "home": -181,
+          "away": 262
         },
         "run_line": {
-          "home": -3.6,
-          "away": 3.6
+          "home": -1.6,
+          "away": 1.6
         },
-        "total": 7.6,
-        "last_update": "21:07:50"
+        "total": 7.2,
+        "last_update": "23:03:49"
       },
       "player_props": {
         "batters": [
           {
             "name": "Aaron Judge",
             "team": "Yankees",
-            "hits": 1.9,
-            "home_runs": 0.5,
-            "rbis": 1.8
+            "hits": 1.7,
+            "home_runs": 0.3,
+            "rbis": 1.4
           },
           {
             "name": "Shohei Ohtani",
             "team": "Dodgers",
-            "hits": 1.4,
-            "strikeouts": 6.0,
-            "home_runs": 0.3
+            "hits": 1.2,
+            "strikeouts": 7.8,
+            "home_runs": 0.2
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 56,
-        "away_win_probability": 44,
-        "predicted_score": "4-7",
-        "confidence": 75,
+        "home_win_probability": 45,
+        "away_win_probability": 55,
+        "predicted_score": "4-4",
+        "confidence": 92,
         "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:50.844110"
+        "generated_at": "2025-12-07T23:03:49.654222"
       },
       "data_source": "SportsData.io API"
     },
@@ -1690,41 +1702,47 @@
       "status": "Final",
       "odds": {
         "moneyline": {
-          "home": 212,
-          "away": -143
+          "home": -214,
+          "away": 277
         },
         "run_line": {
-          "home": 1.1,
-          "away": -1.1
+          "home": -2.7,
+          "away": 2.7
         },
-        "total": 9.6,
-        "last_update": "21:07:50"
+        "total": 9.8,
+        "last_update": "23:03:49"
       },
       "player_props": {
         "batters": [
           {
             "name": "Aaron Judge",
             "team": "Yankees",
-            "hits": 1.2,
-            "home_runs": 0.2,
-            "rbis": 2.1
+            "hits": 1.4,
+            "home_runs": 0.4,
+            "rbis": 1.9
           },
           {
             "name": "Shohei Ohtani",
             "team": "Dodgers",
-            "hits": 1.4,
-            "strikeouts": 6.0,
+            "hits": 1.3,
+            "strikeouts": 8.6,
             "home_runs": 0.3
           }
         ]
       },
       "ai_analysis": {
-        "home_win_probability": 42,
-        "away_win_probability": 58,
-        "predicted_score": "6-2",
-        "confidence": 87,
-        "betting_recommendations": {},
-        "generated_at": "2025-12-07T21:07:50.844164"
+        "home_win_probability": 65,
+        "away_win_probability": 35,
+        "predicted_score": "7-4",
+        "confidence": 78,
+        "betting_recommendations": {
+          "moneyline": {
+            "pick": "CHW ML",
+            "confidence": 70,
+            "value": 7.9
+          }
+        },
+        "generated_at": "2025-12-07T23:03:49.654265"
       },
       "data_source": "SportsData.io API"
     }
@@ -1735,42 +1753,42 @@
       "fighter1": "Islam Makhachev",
       "fighter2": "Dustin Poirier",
       "time": "22:00",
-      "date": "2025-12-25",
-      "weight_class": "Middleweight",
+      "date": "2025-12-26",
+      "weight_class": "Lightweight",
       "odds": {
         "moneyline": {
-          "fighter1": -169,
-          "fighter2": 463
+          "fighter1": -228,
+          "fighter2": 269
         },
         "method": {
           "ko_tko": {
-            "fighter1": "+227",
-            "fighter2": "+277"
+            "fighter1": "+306",
+            "fighter2": "+356"
           },
           "submission": {
-            "fighter1": "+261",
-            "fighter2": "+311"
+            "fighter1": "+417",
+            "fighter2": "+467"
           },
           "decision": {
-            "fighter1": "+330",
-            "fighter2": "+380"
+            "fighter1": "+298",
+            "fighter2": "+348"
           }
         },
-        "last_update": "21:07:50"
+        "last_update": "23:03:49"
       },
       "ai_analysis": {
         "predicted_winner": "Islam Makhachev",
         "win_probability": {
-          "fighter1": 79,
-          "fighter2": 21
+          "fighter1": 56,
+          "fighter2": 44
         },
         "method_probabilities": {
-          "ko_tko": 42.4,
-          "submission": 20.7,
-          "decision": 37.0
+          "ko_tko": 36.3,
+          "submission": 22.1,
+          "decision": 41.6
         },
-        "confidence": 82,
-        "generated_at": "2025-12-07T21:07:50.846355"
+        "confidence": 71,
+        "generated_at": "2025-12-07T23:03:49.658199"
       },
       "data_source": "Simulated Data"
     },
@@ -1779,42 +1797,42 @@
       "fighter1": "Jon Jones",
       "fighter2": "Stipe Miocic",
       "time": "22:00",
-      "date": "2025-12-24",
-      "weight_class": "Middleweight",
+      "date": "2025-12-27",
+      "weight_class": "Heavyweight",
       "odds": {
         "moneyline": {
-          "fighter1": 486,
-          "fighter2": -295
+          "fighter1": 219,
+          "fighter2": -140
         },
         "method": {
           "ko_tko": {
-            "fighter1": "+198",
-            "fighter2": "+248"
+            "fighter1": "+298",
+            "fighter2": "+348"
           },
           "submission": {
-            "fighter1": "+416",
-            "fighter2": "+466"
+            "fighter1": "+215",
+            "fighter2": "+265"
           },
           "decision": {
-            "fighter1": "+364",
-            "fighter2": "+414"
+            "fighter1": "+372",
+            "fighter2": "+422"
           }
         },
-        "last_update": "21:07:50"
+        "last_update": "23:03:49"
       },
       "ai_analysis": {
-        "predicted_winner": "Jon Jones",
+        "predicted_winner": "Stipe Miocic",
         "win_probability": {
-          "fighter1": 67,
-          "fighter2": 33
+          "fighter1": 23,
+          "fighter2": 77
         },
         "method_probabilities": {
-          "ko_tko": 39.5,
-          "submission": 31.5,
-          "decision": 29.0
+          "ko_tko": 41.5,
+          "submission": 23.1,
+          "decision": 35.4
         },
-        "confidence": 71,
-        "generated_at": "2025-12-07T21:07:50.846396"
+        "confidence": 75,
+        "generated_at": "2025-12-07T23:03:49.658235"
       },
       "data_source": "Simulated Data"
     },
@@ -1823,48 +1841,48 @@
       "fighter1": "Alex Pereira",
       "fighter2": "Jiri Prochazka",
       "time": "22:00",
-      "date": "2025-12-19",
-      "weight_class": "Heavyweight",
+      "date": "2025-12-30",
+      "weight_class": "Lightweight",
       "odds": {
         "moneyline": {
-          "fighter1": 488,
-          "fighter2": -127
+          "fighter1": -160,
+          "fighter2": 310
         },
         "method": {
           "ko_tko": {
-            "fighter1": "+231",
-            "fighter2": "+281"
+            "fighter1": "+194",
+            "fighter2": "+244"
           },
           "submission": {
-            "fighter1": "+425",
-            "fighter2": "+475"
+            "fighter1": "+452",
+            "fighter2": "+502"
           },
           "decision": {
-            "fighter1": "+291",
-            "fighter2": "+341"
+            "fighter1": "+440",
+            "fighter2": "+490"
           }
         },
-        "last_update": "21:07:50"
+        "last_update": "23:03:49"
       },
       "ai_analysis": {
         "predicted_winner": "Alex Pereira",
         "win_probability": {
-          "fighter1": 64,
-          "fighter2": 36
+          "fighter1": 59,
+          "fighter2": 41
         },
         "method_probabilities": {
-          "ko_tko": 35.2,
-          "submission": 28.1,
-          "decision": 36.7
+          "ko_tko": 55.6,
+          "submission": 22.2,
+          "decision": 22.2
         },
-        "confidence": 77,
-        "generated_at": "2025-12-07T21:07:50.846424"
+        "confidence": 84,
+        "generated_at": "2025-12-07T23:03:49.658263"
       },
       "data_source": "Simulated Data"
     }
   ],
   "_metadata": {
-    "generated_at": "2025-12-07T21:07:50.846534",
+    "generated_at": "2025-12-07T23:03:49.658493",
     "version": "6.0.0",
     "total_games": 27,
     "sports": [
@@ -1875,7 +1893,7 @@
       "ufc"
     ],
     "update_frequency": "15 minutes",
-    "next_update": "2025-12-07T21:22:50.846538",
+    "next_update": "2025-12-07T23:18:49.658506",
     "api_status": "Active"
   }
 }
